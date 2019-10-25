@@ -1,6 +1,6 @@
 # Crypto
 Articles, decks,websites... Everything interesting that I found and it’s cool to see / read 
 
-lol I just found out this repo 
-I may add some links to a cool crypto articles later
-stay tuned ?
+ETH 2.0 - 5 takeaways from Vitalik
+https://www.coindesk.com/5-takeaways-on-ethereum-2-0-from-vitaliks-beast-mode-blog-posts 
+
