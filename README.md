@@ -20,6 +20,9 @@ Attemp to change ETH 1.x process
 https://medium.com/@akhounov/ethereum-1x-as-an-attempt-to-change-the-process-783efa23cf60
 
 # ETH 2.0
+Journey to ETH2.0 - explains moving from 1.x to 2.0 
+https://medium.com/@william.j.villanueva/a-journey-through-phase-2-of-ethereum-2-0-c7a2397a36cb
+
 ETH 2.0 - 5 takeaways from Vitalik
 https://www.coindesk.com/5-takeaways-on-ethereum-2-0-from-vitaliks-beast-mode-blog-posts 
 
