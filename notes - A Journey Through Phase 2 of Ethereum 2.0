@@ -1,0 +1,33 @@
+Notes from https://medium.com/@william.j.villanueva/a-journey-through-phase-2-of-ethereum-2-0-c7a2397a36cb 
+
+# ETH2.0 has 3 phrases:
+ - 0 = beacon chain - core pieces, networking, signature schemes, randomness 
+ - 1 = mechanics of independently operating 1024 shard chains
+ - 2 = execution engine, trannsaction through space, account model  ### = life of ETH2.0 - opns up state execution and computation 
+ 
+ # Beacon chain = Shard chain 
+ - ability to use ether with contract, wallets, applicationa
+ - has native ether = deposit 32 ETH - became validator / staker
+ - doesn’t have a concept of native ether
+ - stores a list of reciepts in every block 
+ 
+# Shard chains + state execution fuctions = reflections and integrations of the framework defined in the Beacon Chain contract 
+  - shard chains don’t need state
+  
+  
+ # Road from ETH 1.0 to ETH 2.0 - BLS Signature schema (application layner not consensus layer)
+ ## 1.0 -> Beacon Chain contract 0 -> Shard number (example - 5) <- shard chain 
+ - Have ETH on 1.0 chain
+ - move it to Beacon chain contract with validator / staking account 
+ - deposit to shard
+ - = create account on shard chain by adding another function to Beacon chain contract = reduce balance in your (our) account >
+ - = increase balance in recieving account <
+ 
+ # Notes 
+ - to make transaction  happen you need to provide Merkle branches for the state values of the transaction 
+ - no big database storage is needed on active nodes 
+ - nodes can use withness data in every transaction as database 
+ - storage + storage fees can be removed from core protocol 
+ - core protocol needs merkle hash/ compression value 
+ - with cross shard transactions you don’t need to wait epoch period - 6 mins to make transaction happen
+ -> cross chain can combine transaction on multiple shards 
