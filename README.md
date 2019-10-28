@@ -6,6 +6,9 @@ Articles, decks,websites... Everything interesting that I found and it’s cool 
 Before you jump into Ethereum Community, read this piece - general knowleadge about Crypto 
 https://logicmag.io/bodies/the-crypto-family-farm/
 
+Check out Ethhub.io - great source of all kinds of basics info, amazing podcasts, subscribe to their newsletter - weekly updates of projects and overall info that’s amazing and you have no time to catch up on Crypto Twitter
+https://docs.ethhub.io/questions-about-ethereum/is-ethereum-more-expensive-to-use-as-price-rises/ 
+
 12 questions about crypto 
 https://outlast.me/twelve-questions/
 
