@@ -26,6 +26,9 @@ https://medium.com/@preethikasireddy/how-does-ethereum-work-anyway-22d1df506369
 Attemp to change ETH 1.x process 
 https://medium.com/@akhounov/ethereum-1x-as-an-attempt-to-change-the-process-783efa23cf60
 
+General - huge reading about ETH 1.x 
+https://docs.ethhub.io/ethereum-roadmap/ethereum-1.x/
+
 # ETH 2.0
 Journey to ETH2.0 - explains moving from 1.x to 2.0 
 https://medium.com/@william.j.villanueva/a-journey-through-phase-2-of-ethereum-2-0-c7a2397a36cb
