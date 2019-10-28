@@ -12,7 +12,7 @@ https://docs.ethhub.io/questions-about-ethereum/is-ethereum-more-expensive-to-us
 12 questions about crypto 
 https://outlast.me/twelve-questions/
 
-Blockchain required readingshttps://github.com/prysmaticlabs/prysm/blob/master/docs/READINGS.md  - huge repo incl:
+Blockchain required readings https://github.com/prysmaticlabs/prysm/blob/master/docs/READINGS.md  - huge repo incl:
 - Required Blockchain & Ethereum Knowledge
 - Required Sharding Knowledge
 - Necessary Go Knowledge & Readings
