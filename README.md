@@ -3,6 +3,9 @@ Articles, decks,websites... Everything interesting that I found and it’s cool 
 
 
 # General about Crypto 
+Before you jump into Ethereum Community, read this piece - general knowleadge about Crypto 
+https://logicmag.io/bodies/the-crypto-family-farm/
+
 12 questions about crypto 
 https://outlast.me/twelve-questions/
 
@@ -14,6 +17,7 @@ https://github.com/prysmaticlabs/prysm/blob/master/docs/READINGS.md
 
 How does Ethereum work, anyway ?
 https://medium.com/@preethikasireddy/how-does-ethereum-work-anyway-22d1df506369
+
 
 # ETH 1.x 
 Attemp to change ETH 1.x process 
