@@ -3,23 +3,25 @@ Articles, decks,websites... Everything interesting that I found and it’s cool 
 
 
 # General about Crypto 
-Before you jump into Ethereum Community, read this piece - general knowleadge about Crypto 
+- Before you jump into Ethereum Community, read this piece - general knowleadge about Crypto 
 https://logicmag.io/bodies/the-crypto-family-farm/
 
-Check out Ethhub.io - great source of all kinds of basics info, amazing podcasts, subscribe to their newsletter - weekly updates of projects and overall info that’s amazing and you have no time to catch up on Crypto Twitter
+- Check out Ethhub.io - great source of all kinds of basics info, amazing podcasts, subscribe to their newsletter - weekly updates of projects and overall info that’s amazing and you have no time to catch up on Crypto Twitter
 https://docs.ethhub.io/questions-about-ethereum/is-ethereum-more-expensive-to-use-as-price-rises/ 
 
-12 questions about crypto 
+- 12 questions about crypto 
 https://outlast.me/twelve-questions/
 
-Blockchain required readings https://github.com/prysmaticlabs/prysm/blob/master/docs/READINGS.md  - huge repo incl:
-- Required Blockchain & Ethereum Knowledge
-- Required Sharding Knowledge
-- Necessary Go Knowledge & Readings
+- Blockchain required readings https://github.com/prysmaticlabs/prysm/blob/master/docs/READINGS.md  - huge repo incl:
+  - Required Blockchain & Ethereum Knowledge
+  - Required Sharding Knowledge
+  - Necessary Go Knowledge & Readings
 
-
-How does Ethereum work, anyway ?
+-How does Ethereum work, anyway ?
 https://medium.com/@preethikasireddy/how-does-ethereum-work-anyway-22d1df506369
+
+- Ethereum Roadmap kinda sum up from Devcon5 & nice reading about Ethereum
+https://decrypt.co/10298/devcon-5-building-a-decentralized-revolution-at-scale
 
 # Cool projects 
 - You can use this app to deposit some ETH into a noncustodial smart contract, and then easily generate a proof that you had perfomed said deposit without revealing your original address. https://tornado.cash/about
