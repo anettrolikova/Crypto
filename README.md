@@ -21,6 +21,9 @@ Blockchain required readings https://github.com/prysmaticlabs/prysm/blob/master/
 How does Ethereum work, anyway ?
 https://medium.com/@preethikasireddy/how-does-ethereum-work-anyway-22d1df506369
 
+# Cool projects 
+- You can use this app to deposit some ETH into a noncustodial smart contract, and then easily generate a proof that you had perfomed said deposit without revealing your original address. https://tornado.cash/about
+
 
 # ETH 1.x 
 Attemp to change ETH 1.x process 
