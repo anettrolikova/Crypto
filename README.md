@@ -17,7 +17,7 @@ https://outlast.me/twelve-questions/
   - Required Sharding Knowledge
   - Necessary Go Knowledge & Readings
 
--How does Ethereum work, anyway ?
+- How does Ethereum work, anyway ?
 https://medium.com/@preethikasireddy/how-does-ethereum-work-anyway-22d1df506369
 
 - Ethereum Roadmap kinda sum up from Devcon5 & nice reading about Ethereum
