@@ -50,3 +50,8 @@ https://docs.ethhub.io/ethereum-roadmap/ethereum-2.0/eth-2.0-phases/
 ETH 2.0 newsletter by Ben Edington
 https://notes.ethereum.org/@ChihChengLiang/Sk8Zs--CQ/https%3A%2F%2Fbenjaminion.xyz%2Fnewineth2%2F20191003.html?type=book
 
+"Phase 0 is the beacon chain, which implements the Proof of Stake protocol, an alternative to Proof of Work for securing the blockchain network. Phase 1 provides massive scalability in the form of shard chains, increasing the transaction handling capacity of the network by over a thousand. Phase 2 is the execution layer that will provide user accounts and smart contracts, and support the full array of distributed applications necessary for our decentralised future." 
+"the beacon chain will start up in early 2020. A date of January 3rd has been suggested, being the anniversary of the Bitcoin genesis block. But that is perhaps too soon to be completely production ready. A little later in Q1 2020 is most likely." 
+good reading about ETH2.0 & kinda roadmap - builing Ethereum looks like Bazaar.. 
+https://media.consensys.net/ethereum-2-0s-latest-strides-forward-13f63652e57d
+
