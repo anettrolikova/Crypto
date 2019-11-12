@@ -9,6 +9,9 @@ https://logicmag.io/bodies/the-crypto-family-farm/
 - Check out Ethhub.io - great source of all kinds of basics info, amazing podcasts, subscribe to their newsletter - weekly updates of projects and overall info that’s amazing and you have no time to catch up on Crypto Twitter
 https://docs.ethhub.io/questions-about-ethereum/is-ethereum-more-expensive-to-use-as-price-rises/ 
 
+- Crypto glossary - explainig terms in crypto 
+https://a16z.com/2019/11/08/crypto-glossary/
+
 - 12 questions about crypto 
 https://outlast.me/twelve-questions/
 
