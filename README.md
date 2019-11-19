@@ -29,6 +29,9 @@ https://decrypt.co/10298/devcon-5-building-a-decentralized-revolution-at-scale
 # Cool projects 
 - You can use this app to deposit some ETH into a noncustodial smart contract, and then easily generate a proof that you had perfomed said deposit without revealing your original address. https://tornado.cash/about
 
+- MolochDAO - how it does work and everything about it 
+https://concourseopen.com/blog/moloch-dao-explained/
+
 
 # ETH 1.x 
 Attemp to change ETH 1.x process 
