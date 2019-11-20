@@ -61,3 +61,5 @@ https://notes.ethereum.org/@ChihChengLiang/Sk8Zs--CQ/https%3A%2F%2Fbenjaminion.x
 good reading about ETH2.0 & kinda roadmap - builing Ethereum looks like Bazaar.. 
 https://media.consensys.net/ethereum-2-0s-latest-strides-forward-13f63652e57d
 
+ETH2.0 Phrase 2 Progress 
+https://medium.com/@william.j.villanueva/ethereum-2-0-phase-2-progress-7673b57eabff
