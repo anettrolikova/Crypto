@@ -1,6 +1,6 @@
 # Crypto reading
 Articles, decks,websites... Everything interesting that I found and it’s cool to see / read 
-
+Disclaimer - this repo is Work In Progress and I'm adding new links on a very irregular basis 
 
 # General about Crypto 
 - Before you jump into Ethereum Community, read this piece - general knowleadge about Crypto 
@@ -31,6 +31,9 @@ https://decrypt.co/10298/devcon-5-building-a-decentralized-revolution-at-scale
 
 - MolochDAO - how it does work and everything about it 
 https://concourseopen.com/blog/moloch-dao-explained/
+
+- A guide to the available tools, components, patterns, and platforms for developing applications on Ethereum.
+https://pages.consensys.net/developer-tools
 
 
 # ETH 1.x 
