@@ -63,3 +63,9 @@ https://media.consensys.net/ethereum-2-0s-latest-strides-forward-13f63652e57d
 
 ETH2.0 Phrase 2 Progress 
 https://medium.com/@william.j.villanueva/ethereum-2-0-phase-2-progress-7673b57eabff
+
+# DeFi 
+DeFi school
+https://defi.school/
+
+
