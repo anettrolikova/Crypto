@@ -70,6 +70,7 @@ https://medium.com/@william.j.villanueva/ethereum-2-0-phase-2-progress-7673b57ea
 # DeFi 
 DeFi school
 https://defi.school/
+
 What’s DeFi by defipulse 
 https://defipulse.com/blog/what-is-defi/
 
