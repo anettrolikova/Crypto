@@ -1,0 +1,23 @@
+Notes from Into the Ether podcast with Will Villanueva https://open.spotify.com/episode/4R2Nz9I7XGVjF9Awte1nKv?si=EuQsTaUrQzqQouH4wmt89A
+How cross sharding works
+64 shards - what will be on those (that explanation with ETH1 will be on one shard...libra can be on another shard...) 
+ETH1 vs EE- how ETH1 will flip into EE 
+ETH2.0 Phrases - what each phrase means, what each phrase stands for
+How to execute ether from ETH 2?
+Execute state on cross shard and let it be as data hub
+Sharding helps eth1 can access data stored on ETH 2 chain
+EE is minimizing complexion to the system
+Proposal using beacon chain as load balancer and shard as pure computing layers
+Creating scripts for layers
+Is ETH2 going to break the composability with cross shards calls ? New proposal remedies this. Shards are able to communicate together in one block (without waiting for new epoch - 6mins)
+Applications are stored on shards. They can communicate together - cross shard communication
+Sharding - scalability model
+Using Optimistic roll-up that's reading from multiple shards
+Coordinate more data on shards
+Asinc model for smart contact devs available for Viper and solidity
+Making ETH1 stateless will make transition to ETH2 easier. You will be validator and so You no longer have to have database on disk to manage the large global state. As you're executing the transaction we don't go to the database back and forth it makes that part simplier. 
+If you're trying to sync you no longer need to download global state.
+Brings significant amount of security as there will be shuffling = you will not validate only one shard but they will shuffling every 6 mins (epoch). 
+Shuffling makes difficult to interrupt the committees
+And security for the network
+Helps with reducing the state of the network = currently facing this problem with eth1 (current Ethereum)
