@@ -50,6 +50,9 @@ https://medium.com/@william.j.villanueva/a-journey-through-phase-2-of-ethereum-2
 ETH 2.0 - 5 takeaways from Vitalik
 https://www.coindesk.com/5-takeaways-on-ethereum-2-0-from-vitaliks-beast-mode-blog-posts 
 
+Beacon Chain definition 
+https://media.consensys.net/state-of-ethereum-protocol-2-the-beacon-chain-c6b6a9a69129
+
 Eth2 shard chain simplification proposal 
 https://notes.ethereum.org/@vbuterin/HkiULaluS
 
