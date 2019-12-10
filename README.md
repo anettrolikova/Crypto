@@ -29,6 +29,9 @@ https://decrypt.co/10298/devcon-5-building-a-decentralized-revolution-at-scale
 - Price of ETH and history "The first and biggest flaw is the idea that forking/creating a competitor is a zero cost activity and therefore Ethereum has zero pricing power. In reality, I would argue forking has extremely high coordination costs and Ethereum has significant pricing power, equivalent to the size of its network effects." 
 https://hackernoon.com/in-defense-of-ethereum-and-its-fatness-why-im-still-bullish-on-eth-4c00fea65442?gi=54535f63bbe2
 
+- DoS attac - what happened after DAO hack in 2016 
+http://hackingdistributed.com/2016/06/28/ethereum-soft-fork-dos-vector/
+
 # Cool projects 
 - You can use this app to deposit some ETH into a noncustodial smart contract, and then easily generate a proof that you had perfomed said deposit without revealing your original address. https://tornado.cash/about
 
