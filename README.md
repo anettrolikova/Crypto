@@ -32,9 +32,6 @@ https://hackernoon.com/in-defense-of-ethereum-and-its-fatness-why-im-still-bulli
 # Cool projects 
 - You can use this app to deposit some ETH into a noncustodial smart contract, and then easily generate a proof that you had perfomed said deposit without revealing your original address. https://tornado.cash/about
 
-- MolochDAO - how it does work and everything about it 
-https://concourseopen.com/blog/moloch-dao-explained/
-
 - A guide to the available tools, components, patterns, and platforms for developing applications on Ethereum.
 https://pages.consensys.net/developer-tools
 
@@ -82,5 +79,8 @@ https://defipulse.com/blog/what-is-defi/
 
 # DAO 
 
-DAOs in short, DAO hack, MolochDAO, Matacartel DAO
+- DAOs in short, DAO hack, MolochDAO, Matacartel DAO
 https://www.buildblockchain.tech/newsletter/issues/no-73-return-of-the-dao
+
+- MolochDAO - how it does work and everything about it 
+https://concourseopen.com/blog/moloch-dao-explained/
