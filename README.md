@@ -53,6 +53,9 @@ https://medium.com/@akhounov/ethereum-1x-as-an-attempt-to-change-the-process-783
 https://docs.ethhub.io/ethereum-roadmap/ethereum-1.x/
 
 # ETH 2.0
+- Proof Of Stake FAQ's - more  technical 
+https://github.com/ethereum/wiki/wiki/Proof-of-Stake-FAQ
+
 - Journey to ETH2.0 - explains moving from 1.x to 2.0 
 https://medium.com/@william.j.villanueva/a-journey-through-phase-2-of-ethereum-2-0-c7a2397a36cb
 
