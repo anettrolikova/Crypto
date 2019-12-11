@@ -38,6 +38,9 @@ https://medium.com/@pipermerriam/my-rambling-journey-into-a-career-working-on-et
 
 - why I love Ethereum community, values, advantages and overall overview on Ethereum community https://medium.com/@pipermerriam/thoughts-on-our-values-as-a-community-19ada1d4749
 
+- (controversial) point of a view on mass adoption of crypto 
+https://www.coindesk.com/cryptocurrency-is-most-useful-for-breaking-laws-and-social-constructs
+
 # Cool projects 
 - You can use this app to deposit some ETH into a noncustodial smart contract, and then easily generate a proof that you had perfomed said deposit without revealing your original address. https://tornado.cash/about
 
