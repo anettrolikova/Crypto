@@ -30,8 +30,8 @@ https://decrypt.co/10298/devcon-5-building-a-decentralized-revolution-at-scale
 - Price of ETH and history "The first and biggest flaw is the idea that forking/creating a competitor is a zero cost activity and therefore Ethereum has zero pricing power. In reality, I would argue forking has extremely high coordination costs and Ethereum has significant pricing power, equivalent to the size of its network effects." 
 https://hackernoon.com/in-defense-of-ethereum-and-its-fatness-why-im-still-bullish-on-eth-4c00fea65442?gi=54535f63bbe2
 
-- DoS attac - what happened after DAO hack in 2016 
-http://hackingdistributed.com/2016/06/28/ethereum-soft-fork-dos-vector/
+- nice story how dev got into Ethereum 
+https://medium.com/@pipermerriam/my-rambling-journey-into-a-career-working-on-ethereum-and-the-decentralized-web-134743766f64
 
 # Cool projects 
 - You can use this app to deposit some ETH into a noncustodial smart contract, and then easily generate a proof that you had perfomed said deposit without revealing your original address. https://tornado.cash/about
@@ -85,6 +85,9 @@ https://defipulse.com/blog/what-is-defi/
 
 - DAOs in short, DAO hack, MolochDAO, Matacartel DAO
 https://www.buildblockchain.tech/newsletter/issues/no-73-return-of-the-dao
+
+- DoS attac - what happened after DAO hack in 2016 
+http://hackingdistributed.com/2016/06/28/ethereum-soft-fork-dos-vector/
 
 - MolochDAO - how it does work and everything about it 
 https://concourseopen.com/blog/moloch-dao-explained/
