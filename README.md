@@ -41,6 +41,18 @@ https://medium.com/@pipermerriam/my-rambling-journey-into-a-career-working-on-et
 - (controversial) point of a view on mass adoption of crypto 
 https://www.coindesk.com/cryptocurrency-is-most-useful-for-breaking-laws-and-social-constructs
 
+-Merkle trees 
+https://github.com/protolambda/eth-merkle-trees/blob/master/typing_partials.md
+
+-scaling Ethereum - huge repo 
+https://github.com/jpitts/eth-community-discussions/blob/master/proposals-to-scale.md#general-strategies-for-scaling-the-ethereum-network
+
+- meaning of decentralization 
+https://medium.com/@VitalikButerin/the-meaning-of-decentralization-a0c92b76a274#.4hl67650f
+
+-crypto takeaways from 2018
+https://medium.com/@goltra/three-crypto-takeaways-from-2018-1f9f05ca4e35
+
 # Cool projects 
 - You can use this app to deposit some ETH into a noncustodial smart contract, and then easily generate a proof that you had perfomed said deposit without revealing your original address. https://tornado.cash/about
 
@@ -54,6 +66,19 @@ https://medium.com/@akhounov/ethereum-1x-as-an-attempt-to-change-the-process-783
 
 - General - huge reading about ETH 1.x 
 https://docs.ethhub.io/ethereum-roadmap/ethereum-1.x/
+
+-Stateless client: New direction for ETH1.x
+https://medium.com/@pipermerriam/stateless-clients-a-new-direction-for-ethereum-1-x-e70d30dc27aa
+
+-ETH1.x research topics
+https://ledgerwatch.github.io/Ethereum_1_Research_topics.html
+
+-Core paper of EIPs 
+https://ep.corepaper.org/#proposals
+
+# ETH1.x to ETH2.0 
+-Roadmap ETH1.x to ETH2.0
+https://notes.ethereum.org/cISMnGRMR6-EWka8QLLlYw
 
 # ETH 2.0
 - Proof Of Stake FAQ's - more  technical 
@@ -82,8 +107,17 @@ https://notes.ethereum.org/@ChihChengLiang/Sk8Zs--CQ/https%3A%2F%2Fbenjaminion.x
 good reading about ETH2.0 & kinda roadmap - builing Ethereum looks like Bazaar.. 
 https://media.consensys.net/ethereum-2-0s-latest-strides-forward-13f63652e57d
 
-ETH2.0 Phrase 2 Progress 
+- ETH2.0 Phrase 2 Progress 
 https://medium.com/@william.j.villanueva/ethereum-2-0-phase-2-progress-7673b57eabff
+
+- Is Ethereum 2.0 overlooking communication costs? 
+https://medium.com/elrondnetwork/is-ethereum-2-0-overlooking-communication-costs-ee99931caa7
+
+-Shard Counts and Shuffling 
+https://ethresear.ch/t/registrations-shard-count-and-shuffling/2129
+
+-Moving ETH between shards 
+https://ethresear.ch/t/moving-eth-between-shards-the-problem-statement/6597
 
 # DeFi 
 - DeFi school
