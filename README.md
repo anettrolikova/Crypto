@@ -92,6 +92,9 @@ https://defi.school/
 - What’s DeFi by defipulse 
 https://defipulse.com/blog/what-is-defi/
 
+- Network effect in an Open Financial World 
+https://medium.com/@0xKiwi/network-effects-in-an-open-financial-world-251152b9467d
+
 # DAO 
 
 - DAOs in short, DAO hack, MolochDAO, Matacartel DAO
