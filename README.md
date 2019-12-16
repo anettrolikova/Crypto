@@ -76,6 +76,9 @@ https://ledgerwatch.github.io/Ethereum_1_Research_topics.html
 -Core paper of EIPs 
 https://ep.corepaper.org/#proposals
 
+- Ethereum State - huge tech explanation 
+https://github.com/ledgerwatch/turbo-geth/blob/master/docs/programmers_guide/guide.md#transaction-processing
+
 # ETH1.x to ETH2.0 
 -Roadmap ETH1.x to ETH2.0
 https://notes.ethereum.org/cISMnGRMR6-EWka8QLLlYw
