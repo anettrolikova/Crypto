@@ -84,6 +84,9 @@ https://github.com/ledgerwatch/turbo-geth/blob/master/docs/programmers_guide/gui
 https://notes.ethereum.org/cISMnGRMR6-EWka8QLLlYw
 
 # ETH 2.0
+- ETH2.0 Specification 
+https://github.com/ethereum/eth2.0-specs#design-goals
+
 - Proof Of Stake FAQ's - more  technical 
 https://github.com/ethereum/wiki/wiki/Proof-of-Stake-FAQ
 
