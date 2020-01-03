@@ -139,7 +139,6 @@ https://defipulse.com/blog/what-is-defi/
 https://medium.com/@0xKiwi/network-effects-in-an-open-financial-world-251152b9467d
 
 # DAO 
-
 - DAOs in short, DAO hack, MolochDAO, Matacartel DAO
 https://www.buildblockchain.tech/newsletter/issues/no-73-return-of-the-dao
 
@@ -148,6 +147,16 @@ http://hackingdistributed.com/2016/06/28/ethereum-soft-fork-dos-vector/
 
 - MolochDAO - how it does work and everything about it 
 https://concourseopen.com/blog/moloch-dao-explained/
+
+- DAOs built on GenesisDAO 
+https://ecosystem.daoincubator.org/meta/daos-ecosystem
+
+- How decentralised autonomous organisations’ governance could build upon the expertise acquired via stakeholder management techniques.
+https://medium.com/@christophe.de.landtsheer/daos-and-stakeholder-dartboards-f2cd30aaad1e
+
+- True or not true DAO? — Resist the beginnings and consider the end
+https://medium.com/@markus.buech/true-or-not-true-dao-resist-the-beginnings-and-consider-the-end-5ba20c9ccac
+
 
 # Technical stuff
 - VM - Ethereum Virtual Mashine 
