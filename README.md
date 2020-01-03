@@ -122,6 +122,9 @@ https://ethresear.ch/t/registrations-shard-count-and-shuffling/2129
 -Moving ETH between shards 
 https://ethresear.ch/t/moving-eth-between-shards-the-problem-statement/6597
 
+- The State of ETH2.0 - older writeup & sum up about ETH2.0
+https://docs.google.com/document/d/1PS0k9MaKPdPwEw3Uh9rq7USjq7LcSpT6ICQUXRij4YE/edit#
+
 # DeFi 
 - DeFi school
 https://defi.school/
@@ -142,3 +145,7 @@ http://hackingdistributed.com/2016/06/28/ethereum-soft-fork-dos-vector/
 
 - MolochDAO - how it does work and everything about it 
 https://concourseopen.com/blog/moloch-dao-explained/
+
+# Technical stuff
+- VM - Ethereum Virtual Mashine 
+https://github.com/ethereum/wiki/wiki/Design-Rationale#virtual-machine
