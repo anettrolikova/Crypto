@@ -119,10 +119,10 @@ https://medium.com/@william.j.villanueva/ethereum-2-0-phase-2-progress-7673b57ea
 - Is Ethereum 2.0 overlooking communication costs? 
 https://medium.com/elrondnetwork/is-ethereum-2-0-overlooking-communication-costs-ee99931caa7
 
--Shard Counts and Shuffling 
+- Shard Counts and Shuffling 
 https://ethresear.ch/t/registrations-shard-count-and-shuffling/2129
 
--Moving ETH between shards 
+- Moving ETH between shards 
 https://ethresear.ch/t/moving-eth-between-shards-the-problem-statement/6597
 
 - The State of ETH2.0 - older writeup & sum up about ETH2.0
@@ -130,6 +130,9 @@ https://docs.google.com/document/d/1PS0k9MaKPdPwEw3Uh9rq7USjq7LcSpT6ICQUXRij4YE/
 
 - Engineer guide to ETH2.0 
 https://hackernoon.com/what-to-expect-when-eths-expecting-80cb4951afcd
+
+- ETH2.0 designing goals 
+https://media.consensys.net/exploring-the-ethereum-2-0-design-goals-fd2d901b4c01
 
 # DeFi 
 - DeFi school
