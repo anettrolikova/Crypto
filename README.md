@@ -125,6 +125,9 @@ https://ethresear.ch/t/moving-eth-between-shards-the-problem-statement/6597
 - The State of ETH2.0 - older writeup & sum up about ETH2.0
 https://docs.google.com/document/d/1PS0k9MaKPdPwEw3Uh9rq7USjq7LcSpT6ICQUXRij4YE/edit#
 
+- Engineer guide to ETH2.0 
+https://hackernoon.com/what-to-expect-when-eths-expecting-80cb4951afcd
+
 # DeFi 
 - DeFi school
 https://defi.school/
