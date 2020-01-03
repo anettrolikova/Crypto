@@ -152,3 +152,6 @@ https://concourseopen.com/blog/moloch-dao-explained/
 # Technical stuff
 - VM - Ethereum Virtual Mashine 
 https://github.com/ethereum/wiki/wiki/Design-Rationale#virtual-machine
+
+- Technical stuff about Patricia Merkle Tree, RLP, design protocols... 
+https://github.com/ethereum/wiki/wiki/Design-Rationale#virtual-machine
