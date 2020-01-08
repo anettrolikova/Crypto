@@ -166,6 +166,9 @@ https://medium.com/@christophe.de.landtsheer/daos-and-stakeholder-dartboards-f2c
 - True or not true DAO? — Resist the beginnings and consider the end
 https://medium.com/@markus.buech/true-or-not-true-dao-resist-the-beginnings-and-consider-the-end-5ba20c9ccac
 
+- DAOstack 2020 updates, DAOs overview 
+https://medium.com/daostack/daostack-in-2020-18cf98b01bea
+
 
 # Technical stuff
 - VM - Ethereum Virtual Mashine 
