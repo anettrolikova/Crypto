@@ -177,3 +177,6 @@ https://github.com/ethereum/wiki/wiki/Design-Rationale#virtual-machine
 - Technical stuff about Blockchain-level protocol, Accounts and not UTXOs, Merkle Patricia Trees, RLP
 Compression algorithm,Trie Usage, Uncle incentivization,Difficulty Update Algorithm, Gas and Fees, Virtual Machine
 https://github.com/ethereum/wiki/wiki/Design-Rationale#virtual-machine
+
+- Curve BLS12-381 protocols are using it for digital signatures
+https://hackmd.io/@benjaminion/H1lkISO3JU
