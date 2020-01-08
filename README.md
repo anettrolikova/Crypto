@@ -41,16 +41,16 @@ https://medium.com/@pipermerriam/my-rambling-journey-into-a-career-working-on-et
 - (controversial) point of a view on mass adoption of crypto 
 https://www.coindesk.com/cryptocurrency-is-most-useful-for-breaking-laws-and-social-constructs
 
--Merkle trees 
+- Merkle trees 
 https://github.com/protolambda/eth-merkle-trees/blob/master/typing_partials.md
 
--scaling Ethereum - huge repo 
+- scaling Ethereum - huge repo 
 https://github.com/jpitts/eth-community-discussions/blob/master/proposals-to-scale.md#general-strategies-for-scaling-the-ethereum-network
 
 - meaning of decentralization 
 https://medium.com/@VitalikButerin/the-meaning-of-decentralization-a0c92b76a274#.4hl67650f
 
--crypto takeaways from 2018
+- crypto takeaways from 2018
 https://medium.com/@goltra/three-crypto-takeaways-from-2018-1f9f05ca4e35
 
 # Cool projects 
@@ -70,17 +70,17 @@ https://docs.ethhub.io/ethereum-roadmap/ethereum-1.x/
 -Stateless client: New direction for ETH1.x
 https://medium.com/@pipermerriam/stateless-clients-a-new-direction-for-ethereum-1-x-e70d30dc27aa
 
--ETH1.x research topics
+- ETH1.x research topics
 https://ledgerwatch.github.io/Ethereum_1_Research_topics.html
 
--Core paper of EIPs 
+- Core paper of EIPs 
 https://ep.corepaper.org/#proposals
 
 - Ethereum State - huge tech explanation 
 https://github.com/ledgerwatch/turbo-geth/blob/master/docs/programmers_guide/guide.md#transaction-processing
 
 # ETH1.x to ETH2.0 
--Roadmap ETH1.x to ETH2.0
+-  Roadmap ETH1.x to ETH2.0
 https://notes.ethereum.org/cISMnGRMR6-EWka8QLLlYw
 
 # ETH 2.0
