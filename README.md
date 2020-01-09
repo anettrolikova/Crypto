@@ -53,6 +53,9 @@ https://medium.com/@VitalikButerin/the-meaning-of-decentralization-a0c92b76a274#
 - crypto takeaways from 2018
 https://medium.com/@goltra/three-crypto-takeaways-from-2018-1f9f05ca4e35
 
+- How to run Ethereum node - Geth 
+https://medium.com/better-programming/run-an-ethereum-node-on-linux-late-2019-b37a1d35800e
+
 # Cool projects 
 - You can use this app to deposit some ETH into a noncustodial smart contract, and then easily generate a proof that you had perfomed said deposit without revealing your original address. https://tornado.cash/about
 
