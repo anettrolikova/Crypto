@@ -189,3 +189,10 @@ https://hackmd.io/@benjaminion/H1lkISO3JU
 
 - Demystifying Incentives in the Consensus Computer 
 https://eprint.iacr.org/2015/702.pdf
+
+- Precompiles in Solidity, dive into EVM
+https://medium.com/@rbkhmrcr/precompiles-solidity-e5d29bd428c4
+
+- Improving scalability with precompiles "precompiles are very similar to the Eth2 concept of execution environments (EE). Among other things, Eth2 EE will be WASM-based. Introducing WASM precompiles will provide for a smooth transition to the heavy paradigm shift that Eth2 is."
+https://medium.com/@gballet/improving-scalability-withwasm-precompiles-df75e536f93e
+
