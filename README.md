@@ -96,6 +96,9 @@ https://medium.com/@chromaticcapital/eth2-for-dummies-11ff9b11509f
 - ETH2.0 Specification 
 https://github.com/ethereum/eth2.0-specs#design-goals
 
+- Run ETH2.0 Prysm Testnet - step by step guide 
+https://medium.com/@steve.berryman/installing-and-running-an-ethereum-2-prysm-validator-on-the-testnet-c004dd7eece8
+
 - Proof Of Stake FAQ's - more  technical 
 https://github.com/ethereum/wiki/wiki/Proof-of-Stake-FAQ
 
