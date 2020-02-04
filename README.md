@@ -202,3 +202,7 @@ https://medium.com/@rbkhmrcr/precompiles-solidity-e5d29bd428c4
 - Improving scalability with precompiles "precompiles are very similar to the Eth2 concept of execution environments (EE). Among other things, Eth2 EE will be WASM-based. Introducing WASM precompiles will provide for a smooth transition to the heavy paradigm shift that Eth2 is."
 https://medium.com/@gballet/improving-scalability-withwasm-precompiles-df75e536f93e
 
+# Optimistic rollups, plasma, ZK
+- The life and death of plasma - whats plasma, how it works, how it was created, hostory, rollups, snarks, optimism
+https://medium.com/dragonfly-research/the-life-and-death-of-plasma-b72c6a59c5ad
+
