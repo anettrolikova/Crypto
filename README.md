@@ -156,6 +156,9 @@ https://defipulse.com/blog/what-is-defi/
 - Network effect in an Open Financial World 
 https://medium.com/@0xKiwi/network-effects-in-an-open-financial-world-251152b9467d
 
+- Ether is Equity - Ethereum decribed from financal perspective 
+https://bankless.substack.com/p/ether-is-equity
+
 # DAO 
 - DAOs in short, DAO hack, MolochDAO, Matacartel DAO
 https://www.buildblockchain.tech/newsletter/issues/no-73-return-of-the-dao
