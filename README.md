@@ -93,6 +93,9 @@ https://notes.ethereum.org/cISMnGRMR6-EWka8QLLlYw
 - ETH2 for Dummies - great simple overview of ETH2.0 and how it works (incl beacon chain expl, launch dates, teams working on it) 
 https://medium.com/@chromaticcapital/eth2-for-dummies-11ff9b11509f
 
+-ETH2.0 glossary full of basic terms 
+https://kb.beaconcha.in/glossary
+
 - ETH2.0 Specification 
 https://github.com/ethereum/eth2.0-specs#design-goals
 
