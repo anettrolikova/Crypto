@@ -1,0 +1,18 @@
+Notes from https://blog.ethereum.org/2019/12/30/eth1x-files-state-of-stateless-ethereum/
+Stateless Ethereum
+
+- only 0.1% of the state is changing from block to block
+- there should be a means of cutting down the extra stuff that nodes needs to download
+    - means give a block witness
+- now even with fast sync it takes 6hrs to download full state of the Ethereum
+- we need a new piece of information about state = a block witness
+- Beam sync - block witness proof provides all of the missing hashes in a state trie, combined with some structural information about where in the trie those hashes belong
+    - Means - that it will provide only the new information that’s missing in the new block + some structural information  - guide where the old information is stored
+    - Beam sync is watching and trying to execute transactions as they happen, requesting witness (excuse/ only new information) with each block from full node for the information that the new block have
+- a truly stateless client would never keep a copy of state - only the new information
+- full state is being stored on a full node
+- stateless nodes are just light nodes that keeps only new tx hashes, keys, key pairs and some additional information - way less than full node
+- plan is to have 3 types of nodes:
+    - full state - they will operate as before but will additionally compute (process) witness and either attach it to a new block or propagate it through secondary network sub-protocol
+    - partial state - could keep a full state for a short number of blocks or just watch the piece of state they’re interested in and get the rest of the data that they need to verify blocks from witnesses - would help infrastructure running dapp devs
+    - zero state - by definition to keep their clients running as possible - could rely only on witnesses to verify new blocks
