@@ -10,6 +10,9 @@ https://logicmag.io/bodies/the-crypto-family-farm/
 - Keep your funds safe + general knowleadge portal, mainly about how to keep your crypto safe 
 https://support.mycrypto.com/
 
+- Bitpanda academy - answers to basics Questions about Ethereum, for beginners and everyone who wants to learn more. BTC, Open Source, Ripple, ICO, Altcoins... 
+https://www.bitpanda.com/academy/en/lessons/what-is-ethereum/
+
 - Check out Ethhub.io - great source of all kinds of basics info, amazing podcasts, subscribe to their newsletter - weekly updates of projects and overall info that’s amazing and you have no time to catch up on Crypto Twitter
 https://docs.ethhub.io/questions-about-ethereum/is-ethereum-more-expensive-to-use-as-price-rises/ 
 
