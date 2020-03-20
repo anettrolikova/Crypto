@@ -57,6 +57,9 @@ https://github.com/pirapira/awesome-ethereum-virtual-machine
 - Binance academy - what is Ethereum, history... reading & recordings (listening)
 https://www.binance.vision/blockchain/what-is-ethereum
 
+- District0x learning portal - writeups & videos 
+https://education.district0x.io/general-topics/
+
 - Developer tools -A guide to the available tools, components, patterns, and platforms for developing applications on Ethereum.
 https://pages.consensys.net/developer-tools
 
