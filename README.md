@@ -10,15 +10,6 @@ https://logicmag.io/bodies/the-crypto-family-farm/
 - Keep your funds safe + general knowleadge portal, mainly about how to keep your crypto safe 
 https://support.mycrypto.com/
 
-- Bitpanda academy - answers to basics Questions about Ethereum, for beginners and everyone who wants to learn more. BTC, Open Source, Ripple, ICO, Altcoins... 
-https://www.bitpanda.com/academy/en/lessons/what-is-ethereum/
-
-- Check out Ethhub.io - great source of all kinds of basics info, amazing podcasts, subscribe to their newsletter - weekly updates of projects and overall info that’s amazing and you have no time to catch up on Crypto Twitter
-https://docs.ethhub.io/questions-about-ethereum/is-ethereum-more-expensive-to-use-as-price-rises/ 
-
-- Crypto glossary - explainig terms in crypto 
-https://a16z.com/2019/11/08/crypto-glossary/
-
 - 12 questions about crypto 
 https://outlast.me/twelve-questions/
 
@@ -47,9 +38,6 @@ https://medium.com/@pipermerriam/my-rambling-journey-into-a-career-working-on-et
 - (controversial) point of a view on mass adoption of crypto 
 https://www.coindesk.com/cryptocurrency-is-most-useful-for-breaking-laws-and-social-constructs
 
-- Merkle trees 
-https://github.com/protolambda/eth-merkle-trees/blob/master/typing_partials.md
-
 - scaling Ethereum - huge repo 
 https://github.com/jpitts/eth-community-discussions/blob/master/proposals-to-scale.md#general-strategies-for-scaling-the-ethereum-network
 
@@ -65,12 +53,36 @@ https://medium.com/better-programming/run-an-ethereum-node-on-linux-late-2019-b3
 - Awesome EVM 
 https://github.com/pirapira/awesome-ethereum-virtual-machine
 
-# Cool projects 
-- You can use this app to deposit some ETH into a noncustodial smart contract, and then easily generate a proof that you had perfomed said deposit without revealing your original address. https://tornado.cash/about
+# Learning portals
+- Binance academy - what is Ethereum, history... reading & recordings (listening)
+https://www.binance.vision/blockchain/what-is-ethereum
 
-- A guide to the available tools, components, patterns, and platforms for developing applications on Ethereum.
+- Developer tools -A guide to the available tools, components, patterns, and platforms for developing applications on Ethereum.
 https://pages.consensys.net/developer-tools
 
+- Ethhub.io - great source of all kinds of basics info, amazing podcasts, subscribe to their newsletter - weekly updates of projects and overall info that’s amazing and you have no time to catch up on Crypto Twitter
+https://docs.ethhub.io/questions-about-ethereum/is-ethereum-more-expensive-to-use-as-price-rises/ 
+
+- Crypto glossary - explainig terms in crypto 
+https://a16z.com/2019/11/08/crypto-glossary/
+
+- Bitpanda academy - answers to basics Questions about Ethereum, for beginners and everyone who wants to learn more. BTC, Open Source, Ripple, ICO, Altcoins... 
+https://www.bitpanda.com/academy/en/lessons/what-is-ethereum/
+
+- DeFi school
+https://defi.school/
+
+- Coinbase learning courses 
+https://www.coinbase.com/earn
+
+- ConsenSys learning academy (paid courses) 
+https://consensys.net/academy/
+
+- Crypto zombies - Learn to Code Blockchain DApps By Building Simple Games
+https://cryptozombies.io/
+
+# Cool projects 
+- You can use this app to deposit some ETH into a noncustodial smart contract, and then easily generate a proof that you had perfomed said deposit without revealing your original address. https://tornado.cash/about
 
 # ETH 1.x 
 - Attemp to change ETH 1.x process 
@@ -213,6 +225,9 @@ https://medium.com/@gballet/improving-scalability-withwasm-precompiles-df75e536f
 
 - Firehose Sync - fast accounting data access and requests from server
 https://github.com/ledgerwatch/turbo-geth/blob/master/docs/firehose.MD#Command-Specification-for-Firehose-Sync
+
+- Merkle trees 
+https://github.com/protolambda/eth-merkle-trees/blob/master/typing_partials.md
 
 # Optimistic rollups, plasma, ZK
 - The life and death of plasma - whats plasma, how it works, how it was created, hostory, rollups, snarks, optimism
