@@ -87,6 +87,9 @@ https://consensys.net/academy/
 - Crypto zombies - Learn to Code Blockchain DApps By Building Simple Games
 https://cryptozombies.io/
 
+- Crypto hack - A fun platform for learning modern cryptography
+https://cryptohack.org/
+
 # Cool projects 
 - You can use this app to deposit some ETH into a noncustodial smart contract, and then easily generate a proof that you had perfomed said deposit without revealing your original address. https://tornado.cash/about
 
