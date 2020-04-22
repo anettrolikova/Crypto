@@ -90,8 +90,26 @@ https://cryptozombies.io/
 - Crypto hack - A fun platform for learning modern cryptography
 https://cryptohack.org/
 
-- quickly build your next Defi dapp in no time
+
+# Developers
+- Blockchain Developer Job Kit
+https://pages.consensys.net/blockchain-developer-job-kit
+
+- Cool tools for Smart Contracts
+https://www.trufflesuite.com/
+
+- Knowledge & Tools 
+https://consensys.net/developers/
+
+- Quickly build your next Defi dapp in no time
 https://money-legos.studydefi.com/#/quickstart
+
+- Crypto wallet UI kit 
+https://whollet.io/
+
+- Method to the Madness - sbt-ethereum intends to make interacting with, customizing, and deploying Ethereum smart contracts more “accessible” to non-developers
+https://www.sbt-ethereum.io/method_to_the_madness.html
+
 # Cool projects 
 - You can use this app to deposit some ETH into a noncustodial smart contract, and then easily generate a proof that you had perfomed said deposit without revealing your original address. https://tornado.cash/about
 
