@@ -7,6 +7,9 @@ Disclaimer - this repo is Work In Progress and I'm adding new links on a very ir
 - Before you jump into Ethereum Community, read this piece - general knowleadge about Crypto 
 https://logicmag.io/bodies/the-crypto-family-farm/
 
+- Decentralised web - simple explanantion 
+https://hackernoon.com/dweb-the-decentralized-web-a0e9c6a5c0ec
+
 - Keep your funds safe + general knowleadge portal, mainly about how to keep your crypto safe 
 https://support.mycrypto.com/
 
@@ -112,6 +115,12 @@ https://www.sbt-ethereum.io/method_to_the_madness.html
 
 # Cool projects 
 - You can use this app to deposit some ETH into a noncustodial smart contract, and then easily generate a proof that you had perfomed said deposit without revealing your original address. https://tornado.cash/about
+
+- Sociial tokens (money), perosnal currency webinar
+https://www.youtube.com/watch?v=D3JQMx10tas
+
+- Redefining value - social capital mind map 
+http://danfinlay.com/p2p-wot-map.svg
 
 # ETH 1.x 
 - Attemp to change ETH 1.x process 
