@@ -110,6 +110,9 @@ https://money-legos.studydefi.com/#/quickstart
 - Crypto wallet UI kit 
 https://whollet.io/
 
+- Decentralised database for devs 
+https://gun.eco/docs/Todo-Dapp
+
 - Method to the Madness - sbt-ethereum intends to make interacting with, customizing, and deploying Ethereum smart contracts more “accessible” to non-developers
 https://www.sbt-ethereum.io/method_to_the_madness.html
 
