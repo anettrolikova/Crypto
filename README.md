@@ -125,6 +125,9 @@ https://www.youtube.com/watch?v=D3JQMx10tas
 - Redefining value - social capital mind map 
 http://danfinlay.com/p2p-wot-map.svg
 
+- The hackers guide to Web3 UX 
+https://www.notion.so/The-Hackers-Guide-to-Web3-UX-d04371409d76432c85c773e230bd780a
+
 # ETH 1.x 
 - Attemp to change ETH 1.x process 
 https://medium.com/@akhounov/ethereum-1x-as-an-attempt-to-change-the-process-783efa23cf60
