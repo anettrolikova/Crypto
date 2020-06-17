@@ -93,6 +93,9 @@ https://cryptozombies.io/
 - Crypto hack - A fun platform for learning modern cryptography
 https://cryptohack.org/
 
+- Interactive Ethereum Tutorials
+https://tutorials.ethvigil.com/
+
 
 # Developers
 - Blockchain Developer Job Kit
