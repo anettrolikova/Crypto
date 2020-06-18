@@ -277,9 +277,17 @@ https://medium.com/@gballet/improving-scalability-withwasm-precompiles-df75e536f
 https://github.com/ledgerwatch/turbo-geth/blob/master/docs/firehose.MD#Command-Specification-for-Firehose-Sync
 
 - Merkle trees 
-https://github.com/protolambda/eth-merkle-trees/blob/master/typing_partials.md
+https://github.com/protolambda/eth-merkle-trees/blob/master/typing_partial
 
-# Optimistic rollups, plasma, ZK
+# Optimistic rollups, plasma, ZK, L2 
+- Awesome Zeroo Knowledge Proofs - all you need to oknow, huge repo of all thngs ZKP
+https://github.com/matter-labs/awesome-zero-knowledge-proofs
+
 - The life and death of plasma - whats plasma, how it works, how it was created, hostory, rollups, snarks, optimism
 https://medium.com/dragonfly-research/the-life-and-death-of-plasma-b72c6a59c5ad
+
+- L2 scaling solutions, comparisons, security, economics.. general overview on L2 out there 
+https://medium.com/matter-labs/evaluating-ethereum-l2-scaling-solutions-a-comparison-framework-b6b2f410f955
+
+
 
