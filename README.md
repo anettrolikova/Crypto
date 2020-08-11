@@ -56,9 +56,6 @@ https://medium.com/@goltra/three-crypto-takeaways-from-2018-1f9f05ca4e35
 - How to run Ethereum node - Geth 
 https://medium.com/better-programming/run-an-ethereum-node-on-linux-late-2019-b37a1d35800e
 
-- Awesome EVM 
-https://github.com/pirapira/awesome-ethereum-virtual-machine
-
 # Learning portals
 - Binance academy - what is Ethereum, history... reading & recordings (listening)
 https://www.binance.vision/blockchain/what-is-ethereum
@@ -107,6 +104,9 @@ https://www.trufflesuite.com/
 - Knowledge & Tools 
 https://consensys.net/developers/
 
+- Awesome EVM 
+https://github.com/pirapira/awesome-ethereum-virtual-machine
+
 - Quickly build your next Defi dapp in no time
 https://money-legos.studydefi.com/#/quickstart
 
@@ -118,6 +118,7 @@ https://gun.eco/docs/Todo-Dapp
 
 - Method to the Madness - sbt-ethereum intends to make interacting with, customizing, and deploying Ethereum smart contracts more “accessible” to non-developers
 https://www.sbt-ethereum.io/method_to_the_madness.html
+
 
 # Cool projects 
 - You can use this app to deposit some ETH into a noncustodial smart contract, and then easily generate a proof that you had perfomed said deposit without revealing your original address. https://tornado.cash/about
