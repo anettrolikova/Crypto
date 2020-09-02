@@ -172,7 +172,7 @@ https://notes.ethereum.org/cISMnGRMR6-EWka8QLLlYw
 - ETH2 for Dummies - great simple overview of ETH2.0 and how it works (incl beacon chain expl, launch dates, teams working on it) 
 https://medium.com/@chromaticcapital/eth2-for-dummies-11ff9b11509f
 
--ETH2.0 glossary full of basic terms 
+- ETH2.0 glossary full of basic terms 
 https://kb.beaconcha.in/glossary
 
 - ETH2.0 Specification 
@@ -201,6 +201,9 @@ https://docs.ethhub.io/ethereum-roadmap/ethereum-2.0/eth-2.0-phases/
 
 - ETH 2.0 newsletter by Ben Edington
 https://notes.ethereum.org/@ChihChengLiang/Sk8Zs--CQ/https%3A%2F%2Fbenjaminion.xyz%2Fnewineth2%2F20191003.html?type=book
+
+- ETH2.0 Lighthouse Validator Non Tech Guide on MacOS
+https://levelup.gitconnected.com/eth2-0-lighthouse-validator-non-tech-guide-on-macos-90cb00f7ba4f
 
 - "Phase 0 is the beacon chain, which implements the Proof of Stake protocol, an alternative to Proof of Work for securing the blockchain network. Phase 1 provides massive scalability in the form of shard chains, increasing the transaction handling capacity of the network by over a thousand. Phase 2 is the execution layer that will provide user accounts and smart contracts, and support the full array of distributed applications necessary for our decentralised future." 
 "the beacon chain will start up in early 2020. A date of January 3rd has been suggested, being the anniversary of the Bitcoin genesis block. But that is perhaps too soon to be completely production ready. A little later in Q1 2020 is most likely." 
