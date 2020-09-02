@@ -56,7 +56,15 @@ https://medium.com/@goltra/three-crypto-takeaways-from-2018-1f9f05ca4e35
 - How to run Ethereum node - Geth 
 https://medium.com/better-programming/run-an-ethereum-node-on-linux-late-2019-b37a1d35800e
 
+
+
 # Learning portals
+- An Educational Sandbox For Web3... And Much More. Drag-and-Drop Programming, Open Source Building Blocks,Visually Understand How Ethereum Works
+https://eth.build/
+
+- Tutorials, huge knowledge source for ethereum, web3, IPFS, polkadot and other decentralised technologies. 
+https://simpleaswater.com/
+
 - Binance academy - what is Ethereum, history... reading & recordings (listening)
 https://www.binance.vision/blockchain/what-is-ethereum
 
@@ -87,12 +95,17 @@ https://consensys.net/academy/
 - Crypto zombies - Learn to Code Blockchain DApps By Building Simple Games
 https://cryptozombies.io/
 
+- Learn to code in Vyper
+https://vyper.fun
+
 - Crypto hack - A fun platform for learning modern cryptography
 https://cryptohack.org/
 
 - Interactive Ethereum Tutorials
 https://tutorials.ethvigil.com/
 
+- Its super power is interating on smart contracts as you build your frontend. It's great for building decentralized applications on Ethereum.
+http://scaffoldeth.io/
 
 # Developers
 - Blockchain Developer Job Kit
