@@ -57,7 +57,6 @@ https://medium.com/@goltra/three-crypto-takeaways-from-2018-1f9f05ca4e35
 https://medium.com/better-programming/run-an-ethereum-node-on-linux-late-2019-b37a1d35800e
 
 
-
 # Learning portals
 - An Educational Sandbox For Web3... And Much More. Drag-and-Drop Programming, Open Source Building Blocks,Visually Understand How Ethereum Works
 https://eth.build/
@@ -108,6 +107,9 @@ https://tutorials.ethvigil.com/
 http://scaffoldeth.io/
 
 # Developers
+- Free Ethereum Developer Bootcamp 
+https://www.chainshot.com/
+
 - Blockchain Developer Job Kit
 https://pages.consensys.net/blockchain-developer-job-kit
 
