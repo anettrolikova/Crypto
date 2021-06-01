@@ -7,6 +7,8 @@ Disclaimer - this repo is Work In Progress and I'm adding new links on a very ir
 - Before you jump into Ethereum Community, read this piece - general knowleadge about Crypto 
 https://logicmag.io/bodies/the-crypto-family-farm/
 
+- Great article explaining the difference between web1.0 web 2.0 and web3.0 - crypto space. It is written in very simple to understand language. https://www.freecodecamp.org/news/what-is-web3/
+
 - Decentralised web - simple explanantion 
 https://hackernoon.com/dweb-the-decentralized-web-a0e9c6a5c0ec
 
@@ -270,6 +272,9 @@ https://medium.com/@markus.buech/true-or-not-true-dao-resist-the-beginnings-and-
 
 - DAOstack 2020 updates, DAOs overview 
 https://medium.com/daostack/daostack-in-2020-18cf98b01bea
+
+# NFTs
+- This article is about NFTs, explaining the differences between NFTfying your artwork and certifying it without blockchain. Short read, great explanation https://draecomino.substack.com/p/nfts-are-signatures-that-come-with
 
 
 # Technical stuff
