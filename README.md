@@ -3,6 +3,20 @@ Articles and websites mostly ... Everything interesting that I found and it’s 
 
 Disclaimer - this repo is Work In Progress and I'm adding new links on a very irregular basis 
 
+## Table of Contents: 
+- [General about Crypto](https://github.com/anettrolikova/Crypto/blob/master/README.md#general-about-crypto)
+- [Learning Portals](https://github.com/anettrolikova/Crypto/blob/master/README.md#learning-portals)
+- [Developers](https://github.com/anettrolikova/Crypto/blob/master/README.md#developers)
+- [Cool Projects](https://github.com/anettrolikova/Crypto/blob/master/README.md#cool-projects)
+- [ETH1.x](https://github.com/anettrolikova/Crypto/blob/master/README.md#eth-1x)
+- [ETH1.x to ETH2.0](https://github.com/anettrolikova/Crypto/blob/master/README.md#eth1x-to-eth20)
+- [ETH2.0](https://github.com/anettrolikova/Crypto/blob/master/README.md#eth-20)
+- [DeFi](https://github.com/anettrolikova/Crypto/blob/master/README.md#defi)
+- [DAO](https://github.com/anettrolikova/Crypto/blob/master/README.md#dao)
+- [NFTs](https://github.com/anettrolikova/Crypto/blob/master/README.md#nfts)
+- [Technical stuff](https://github.com/anettrolikova/Crypto/blob/master/README.md#technical-stuff)
+- [L2s,Optimistic rollups, plasma, ZK](https://github.com/anettrolikova/Crypto/blob/master/README.md#optimistic-rollups-plasma-zk-l2)
+
 # General about Crypto 
 - Before you jump into Ethereum Community, read this piece - general knowleadge about Crypto 
 https://logicmag.io/bodies/the-crypto-family-farm/
@@ -311,7 +325,7 @@ https://github.com/ledgerwatch/turbo-geth/blob/master/docs/firehose.MD#Command-S
 - Merkle trees 
 https://github.com/protolambda/eth-merkle-trees/blob/master/typing_partial
 
-# Optimistic rollups, plasma, ZK, L2 
+# L2s, Optimistic rollups, plasma, ZK,
 - Awesome Zeroo Knowledge Proofs - all you need to oknow, huge repo of all thngs ZKP
 https://github.com/matter-labs/awesome-zero-knowledge-proofs
 
@@ -321,5 +335,6 @@ https://medium.com/dragonfly-research/the-life-and-death-of-plasma-b72c6a59c5ad
 - L2 scaling solutions, comparisons, security, economics.. general overview on L2 out there 
 https://medium.com/matter-labs/evaluating-ethereum-l2-scaling-solutions-a-comparison-framework-b6b2f410f955
 
-
+- Layer 2 learnings by Ethereum Magicians - intro into L2, zk rollups, ORUs, developer session takeaways, L2 useer takeaways
+https://medium.com/ethereum-magicians/layer-2-learnings-by-ethereum-magicians-22283b10ebf2
 
