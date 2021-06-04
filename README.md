@@ -276,6 +276,14 @@ https://medium.com/daostack/daostack-in-2020-18cf98b01bea
 # NFTs
 - This article is about NFTs, explaining the differences between NFTfying your artwork and certifying it without blockchain. Short read, great explanation https://draecomino.substack.com/p/nfts-are-signatures-that-come-with
 
+- NFTs for dummies - super short and snappy thread about NFTs
+https://twitter.com/Nahiiko/status/1400756970349604864?s=20
+
+- NFT Standards Wiki - everything standards related
+https://www.nftstandards.wtf/
+
+- Awesome NFT list
+https://github.com/gianni-dalerta/awesome-nft
 
 # Technical stuff
 - VM - Ethereum Virtual Mashine 
