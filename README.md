@@ -266,6 +266,9 @@ https://bankless.substack.com/p/ether-is-equity
 - DAOs terms dictionary 
 https://www.notion.so/752ebbd0fa274065b51919a652c6e51d?v=1663f8ec31df48188b30b2bfc1c2395f
 
+- DAO Tools and Resources 
+https://www.notion.so/DAO-Tools-and-Resources-cecc1368c32041fc89515a63f00bae28
+
 - DAOs in short, DAO hack, MolochDAO, Matacartel DAO
 https://www.buildblockchain.tech/newsletter/issues/no-73-return-of-the-dao
 
@@ -286,6 +289,7 @@ https://medium.com/@markus.buech/true-or-not-true-dao-resist-the-beginnings-and-
 
 - DAOstack 2020 updates, DAOs overview 
 https://medium.com/daostack/daostack-in-2020-18cf98b01bea
+
 
 # NFTs
 - This article is about NFTs, explaining the differences between NFTfying your artwork and certifying it without blockchain. Short read, great explanation https://draecomino.substack.com/p/nfts-are-signatures-that-come-with
