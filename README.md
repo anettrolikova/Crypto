@@ -334,6 +334,8 @@ https://github.com/protolambda/eth-merkle-trees/blob/master/typing_partial
 - The Dangers of Token integration, slides focused on security of ERC-20 token contract
 https://github.com/OpenZeppelin/workshops/blob/master/11-dangers-token-integration/slides.pdf
 
+- Awesome Buggy ERC20 Tokens colllecction of vunerabilities in ERC-20 smart contracts and tokens affected
+https://github.com/sec-bit/awesome-buggy-erc20-tokens
 
 
 
