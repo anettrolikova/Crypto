@@ -15,6 +15,7 @@ Disclaimer - this repo is Work In Progress and I'm adding new links on a very ir
 - [DAO](https://github.com/anettrolikova/Crypto/blob/master/README.md#dao)
 - [NFTs](https://github.com/anettrolikova/Crypto/blob/master/README.md#nfts)
 - [Technical stuff](https://github.com/anettrolikova/Crypto/blob/master/README.md#technical-stuff)
+- [Tokens, ERC-20...](https://github.com/anettrolikova/Crypto/blob/master/README.md#tokens, ERC-20...)
 - [L2s,Optimistic rollups, plasma, ZK](https://github.com/anettrolikova/Crypto/blob/master/README.md#optimistic-rollups-plasma-zk-l2)
 
 # General about Crypto 
@@ -328,6 +329,13 @@ https://github.com/ledgerwatch/turbo-geth/blob/master/docs/firehose.MD#Command-S
 
 - Merkle trees 
 https://github.com/protolambda/eth-merkle-trees/blob/master/typing_partial
+
+# Tokens, ERC-20...
+- The Dangers of Token integration, slides focused on security of ERC-20 token contract
+https://github.com/OpenZeppelin/workshops/blob/master/11-dangers-token-integration/slides.pdf
+
+
+
 
 # L2s, Optimistic rollups, plasma, ZK,
 - Awesome Zeroo Knowledge Proofs - all you need to oknow, huge repo of all thngs ZKP
