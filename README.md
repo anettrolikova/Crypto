@@ -304,6 +304,9 @@ https://www.nftstandards.wtf/
 - Awesome NFT list
 https://github.com/gianni-dalerta/awesome-nft
 
+- How to mint music NFTs - everything what you want to know when starting with NFTfying your music
+https://metaversal.banklesshq.com/p/how-to-mint-music-nfts-
+
 # Technical stuff
 - VM - Ethereum Virtual Mashine 
 https://github.com/ethereum/wiki/wiki/Design-Rationale#virtual-machine
