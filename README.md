@@ -4,7 +4,7 @@ Articles and websites mostly ... Everything interesting that I found and it’s 
 Disclaimer - this repo is Work In Progress and I'm adding new links on a very irregular basis 
 
 ## Table of Contents: 
-- [General about Crypto](https://github.com/anettrolikova/Crypto/blob/master/README.md#general-about-crypto)
+- [Getting started with crypto](https://github.com/anettrolikova/Crypto/blob/master/README.md#general-about-crypto)
 - [Learning Portals](https://github.com/anettrolikova/Crypto/blob/master/README.md#learning-portals)
 - [Developers](https://github.com/anettrolikova/Crypto/blob/master/README.md#developers)
 - [Cool Projects](https://github.com/anettrolikova/Crypto/blob/master/README.md#cool-projects)
@@ -18,7 +18,7 @@ Disclaimer - this repo is Work In Progress and I'm adding new links on a very ir
 - [Tokens, ERC-20...](https://github.com/anettrolikova/Crypto/blob/master/README.md#tokens, ERC-20...)
 - [L2s,Optimistic rollups, plasma, ZK](https://github.com/anettrolikova/Crypto/blob/master/README.md#optimistic-rollups-plasma-zk-l2)
 
-# General about Crypto 
+# Getting started with crypto
 - Before you jump into Ethereum Community, read this piece - general knowleadge about Crypto 
 https://logicmag.io/bodies/the-crypto-family-farm/
 
@@ -26,6 +26,9 @@ https://logicmag.io/bodies/the-crypto-family-farm/
 
 - Decentralised web - simple explanantion 
 https://hackernoon.com/dweb-the-decentralized-web-a0e9c6a5c0ec
+
+- My Web3 Journey: Day 50 of #100daysofWeb3 - helpful when starting with crypto
+https://eda.hashnode.dev/my-web3-journey-day-50-of-100daysofweb3
 
 - Keep your funds safe + general knowleadge portal, mainly about how to keep your crypto safe 
 https://support.mycrypto.com/
@@ -264,6 +267,9 @@ https://medium.com/@0xKiwi/network-effects-in-an-open-financial-world-251152b946
 https://bankless.substack.com/p/ether-is-equity
 
 # DAO 
+- Ethereum: Slayer of Moloch - MolochDAO trying to solve coordination issues
+https://newsletter.banklesshq.com/p/ethereum-slayer-of-moloch-
+
 - DAOs terms dictionary 
 https://www.notion.so/752ebbd0fa274065b51919a652c6e51d?v=1663f8ec31df48188b30b2bfc1c2395f
 
@@ -292,7 +298,11 @@ https://medium.com/@markus.buech/true-or-not-true-dao-resist-the-beginnings-and-
 https://medium.com/daostack/daostack-in-2020-18cf98b01bea
 
 
+
 # NFTs
+- NFT Canyon - huge list of amazing links and resources about NFTs
+https://future.a16z.com/nft-canon/
+
 - This article is about NFTs, explaining the differences between NFTfying your artwork and certifying it without blockchain. Short read, great explanation https://draecomino.substack.com/p/nfts-are-signatures-that-come-with
 
 - NFTs for dummies - super short and snappy thread about NFTs
