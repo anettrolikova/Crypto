@@ -4,7 +4,7 @@ I'm currating this list of links since 2018 when I first started educating mysel
 
 Disclaimer: This repo is Work In Progress and I'm adding new links on a very irregular basis. As author of this currated list I'm not responsible for outdated content and links.
 
-## Table of Contents: 
+## Table of Content: 
 - [Getting started with crypto](https://github.com/anettrolikova/Crypto/blob/master/README.md#general-about-crypto)
 - [Learning Portals](https://github.com/anettrolikova/Crypto/blob/master/README.md#learning-portals)
 - [Developers](https://github.com/anettrolikova/Crypto/blob/master/README.md#developers)
