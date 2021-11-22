@@ -15,7 +15,7 @@ Disclaimer - this repo is Work In Progress and I'm adding new links on a very ir
 - [DAO](https://github.com/anettrolikova/Crypto/blob/master/README.md#dao)
 - [NFTs](https://github.com/anettrolikova/Crypto/blob/master/README.md#nfts)
 - [Technical stuff](https://github.com/anettrolikova/Crypto/blob/master/README.md#technical-stuff)
-- [Tokens, ERC-20...](https://github.com/anettrolikova/Crypto/blob/master/README.md#tokens, ERC-20...)
+- [Tokens, ERC-20...](https://github.com/anettrolikova/Crypto/blob/master/README.md#tokens, ERC-20)
 - [L2s,Optimistic rollups, plasma, ZK](https://github.com/anettrolikova/Crypto/blob/master/README.md#optimistic-rollups-plasma-zk-l2)
 
 # Getting started with crypto
@@ -78,6 +78,9 @@ https://medium.com/better-programming/run-an-ethereum-node-on-linux-late-2019-b3
 
 
 # Learning portals
+- Solidity by example - an introduction to Solidity with simple examples
+https://solidity-by-example.org/
+
 - An Educational Sandbox For Web3... And Much More. Drag-and-Drop Programming, Open Source Building Blocks,Visually Understand How Ethereum Works
 https://eth.build/
 
@@ -127,6 +130,10 @@ https://tutorials.ethvigil.com/
 http://scaffoldeth.io/
 
 # Developers
+
+- Solidity by example - an introduction to Solidity with simple examples
+https://solidity-by-example.org/
+
 - Free Ethereum Developer Bootcamp 
 https://www.chainshot.com/
 
