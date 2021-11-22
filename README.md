@@ -187,7 +187,7 @@ https://medium.com/@akhounov/ethereum-1x-as-an-attempt-to-change-the-process-783
 - General - huge reading about ETH 1.x 
 https://docs.ethhub.io/ethereum-roadmap/ethereum-1.x/
 
--Stateless client: New direction for ETH1.x
+- Stateless client: New direction for ETH1.x
 https://medium.com/@pipermerriam/stateless-clients-a-new-direction-for-ethereum-1-x-e70d30dc27aa
 
 - ETH1.x research topics
