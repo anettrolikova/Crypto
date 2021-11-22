@@ -81,6 +81,12 @@ https://medium.com/better-programming/run-an-ethereum-node-on-linux-late-2019-b3
 - Solidity by example - an introduction to Solidity with simple examples
 https://solidity-by-example.org/
 
+- Solidity playground
+http://remix.ethereum.org/
+
+- The most popular game
+https://cryptozombies.io/
+
 - An Educational Sandbox For Web3... And Much More. Drag-and-Drop Programming, Open Source Building Blocks,Visually Understand How Ethereum Works
 https://eth.build/
 
