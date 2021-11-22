@@ -1,7 +1,8 @@
-# Crypto reading
-Articles and websites mostly ... Everything interesting that I found and it’s cool to see / read /try out :)
+# Anett's currated Crypto list
+Everything interesting that I found and it’s cool to read & play around :)
+I'm currating this list of links since 2018 when I first started educating myself about crypto and web3 ecosystem. 
 
-Disclaimer - this repo is Work In Progress and I'm adding new links on a very irregular basis 
+Disclaimer: This repo is Work In Progress and I'm adding new links on a very irregular basis. As author of this currated links I'm not responsible for outdated content and links.
 
 ## Table of Contents: 
 - [Getting started with crypto](https://github.com/anettrolikova/Crypto/blob/master/README.md#general-about-crypto)
@@ -18,7 +19,7 @@ Disclaimer - this repo is Work In Progress and I'm adding new links on a very ir
 - [Tokens, ERC-20...](https://github.com/anettrolikova/Crypto/blob/master/README.md#tokens-erc-20)
 - [L2s,Optimistic rollups, plasma, ZK](https://github.com/anettrolikova/Crypto/blob/master/README.md#optimistic-rollups-plasma-zk-l2)
 
-# Getting started with crypto
+# Getting started with Crypto
 - Before you jump into Ethereum Community, read this piece - general knowleadge about Crypto 
 https://logicmag.io/bodies/the-crypto-family-farm/
 
@@ -309,8 +310,6 @@ https://medium.com/@markus.buech/true-or-not-true-dao-resist-the-beginnings-and-
 - DAOstack 2020 updates, DAOs overview 
 https://medium.com/daostack/daostack-in-2020-18cf98b01bea
 
-
-
 # NFTs
 - NFT Canyon - huge list of amazing links and resources about NFTs
 https://future.a16z.com/nft-canon/
@@ -361,7 +360,6 @@ https://github.com/OpenZeppelin/workshops/blob/master/11-dangers-token-integrati
 
 - Awesome Buggy ERC20 Tokens colllecction of vunerabilities in ERC-20 smart contracts and tokens affected
 https://github.com/sec-bit/awesome-buggy-erc20-tokens
-
 
 
 # L2s, Optimistic rollups, plasma, ZK,
