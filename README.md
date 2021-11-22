@@ -15,7 +15,7 @@ Disclaimer - this repo is Work In Progress and I'm adding new links on a very ir
 - [DAO](https://github.com/anettrolikova/Crypto/blob/master/README.md#dao)
 - [NFTs](https://github.com/anettrolikova/Crypto/blob/master/README.md#nfts)
 - [Technical stuff](https://github.com/anettrolikova/Crypto/blob/master/README.md#technical-stuff)
-- [Tokens, ERC-20...](https://github.com/anettrolikova/Crypto/blob/master/README.md#tokens, ERC-20)
+- [Tokens, ERC-20...](https://github.com/anettrolikova/Crypto/blob/master/README.md#tokens-erc-20)
 - [L2s,Optimistic rollups, plasma, ZK](https://github.com/anettrolikova/Crypto/blob/master/README.md#optimistic-rollups-plasma-zk-l2)
 
 # Getting started with crypto
@@ -130,7 +130,6 @@ https://tutorials.ethvigil.com/
 http://scaffoldeth.io/
 
 # Developers
-
 - Solidity by example - an introduction to Solidity with simple examples
 https://solidity-by-example.org/
 
