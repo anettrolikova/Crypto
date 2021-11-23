@@ -286,6 +286,12 @@ https://newsletter.banklesshq.com/p/ethereum-slayer-of-moloch-
 - DAOs terms dictionary 
 https://www.notion.so/752ebbd0fa274065b51919a652c6e51d?v=1663f8ec31df48188b30b2bfc1c2395f
 
+- Why DAO - good read on DAOs
+https://teju.mirror.xyz/7ipehayeCLUOkeL5JZKTrDiOXSAUak3yNMnT2W9WEPc
+
+- DAO Fundamentals and governance 
+https://orca.mirror.xyz/WVB26-PtNp8D_7A7DXNPhnOMEHnPrEP2NgJc0nRAqwo
+
 - DAO Tools and Resources 
 https://www.notion.so/DAO-Tools-and-Resources-cecc1368c32041fc89515a63f00bae28
 
