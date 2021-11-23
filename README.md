@@ -314,6 +314,9 @@ https://medium.com/daostack/daostack-in-2020-18cf98b01bea
 - NFT Canyon - huge list of amazing links and resources about NFTs
 https://future.a16z.com/nft-canon/
 
+- NFT School for Developers, amazing website full of great content for NFT Devs
+https://nftschool.dev/
+
 - This article is about NFTs, explaining the differences between NFTfying your artwork and certifying it without blockchain. Short read, great explanation https://draecomino.substack.com/p/nfts-are-signatures-that-come-with
 
 - NFTs for dummies - super short and snappy thread about NFTs
