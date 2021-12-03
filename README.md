@@ -280,6 +280,9 @@ https://medium.com/@0xKiwi/network-effects-in-an-open-financial-world-251152b946
 https://bankless.substack.com/p/ether-is-equity
 
 # DAO 
+- DAO Landscape - overview of DAOs and DAO ecosystem 
+https://coopahtroopa.mirror.xyz/_EDyn4cs9tDoOxNGZLfKL7JjLo5rGkkEfRa_a-6VEWw
+
 - Ethereum: Slayer of Moloch - MolochDAO trying to solve coordination issues
 https://newsletter.banklesshq.com/p/ethereum-slayer-of-moloch-
 
