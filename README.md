@@ -169,6 +169,10 @@ https://www.sbt-ethereum.io/method_to_the_madness.html
 
 
 # Cool projects 
+
+- Testnet Faucet supports Ropsten, Kovan, Rinkeby, Görli, Optimistic Kovan, Arbitrum Rinkeby, Polygon Mumbai, and Avalanche Fuji
+https://faucet.paradigm.xyz/
+
 - You can use this app to deposit some ETH into a noncustodial smart contract, and then easily generate a proof that you had perfomed said deposit without revealing your original address. https://tornado.cash/about
 
 - Sociial tokens (money), perosnal currency webinar
