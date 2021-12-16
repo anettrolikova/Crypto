@@ -326,6 +326,9 @@ https://medium.com/@markus.buech/true-or-not-true-dao-resist-the-beginnings-and-
 - DAOstack 2020 updates, DAOs overview 
 https://medium.com/daostack/daostack-in-2020-18cf98b01bea
 
+- Community DAOs - great overview of DAOs and it's communities
+https://p.mirror.xyz/cVN3KOss0uqpZwxHQKtC4Syvn1RfXaxofFKHJuKLWS4
+
 # NFTs
 - NFT Canyon - huge list of amazing links and resources about NFTs
 https://future.a16z.com/nft-canon/
