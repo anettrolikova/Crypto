@@ -40,6 +40,9 @@ https://outlast.me/twelve-questions/
 - Cypherpunks mailing list - OG literature cypherpunks movement
 http://mailing-list-archive.cryptoanarchy.wiki/
 
+- Newsletter for beginners
+https://creatoreconomy.so/p/curious-beginner-guide-to-crypto
+
 - Beginner guide to Ethereum "Imagine automatically sending money from one person to another but only when a certain set of conditions are met. For example an individual wants to purchase a home from another person." 
 https://blog.coinbase.com/a-beginners-guide-to-ethereum-46dd486ceecf
 
