@@ -143,6 +143,9 @@ http://scaffoldeth.io/
 - Solidity by example - an introduction to Solidity with simple examples
 https://solidity-by-example.org/
 
+- Introduction to Solidity smart contracts 
+https://blog.paulmcaviney.ca/hello-world
+
 - Free Ethereum Developer Bootcamp 
 https://www.chainshot.com/
 
