@@ -140,6 +140,9 @@ https://tutorials.ethvigil.com/
 http://scaffoldeth.io/
 
 # Developers
+- Learning resources, where to start as Web3 developer and so many great sources of blogs
+https://www.useweb3.xyz/
+
 - Solidity by example - an introduction to Solidity with simple examples
 https://solidity-by-example.org/
 
@@ -172,6 +175,9 @@ https://gun.eco/docs/Todo-Dapp
 
 - Method to the Madness - sbt-ethereum intends to make interacting with, customizing, and deploying Ethereum smart contracts more “accessible” to non-developers
 https://www.sbt-ethereum.io/method_to_the_madness.html
+
+- Auditing excercises - learrn how to audit contracts
+https://github.com/spearbit-audits/writing-exercise
 
 
 # Cool projects 
