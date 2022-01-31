@@ -406,3 +406,7 @@ https://medium.com/matter-labs/evaluating-ethereum-l2-scaling-solutions-a-compar
 - Layer 2 learnings by Ethereum Magicians - intro into L2, zk rollups, ORUs, developer session takeaways, L2 useer takeaways
 https://medium.com/ethereum-magicians/layer-2-learnings-by-ethereum-magicians-22283b10ebf2
 
+- L2s overview - huge list of Q&A all things L2 
+https://thedailyape.notion.site/Layer-2s-0f982eedaa3d4807a586edd480391188
+
+
