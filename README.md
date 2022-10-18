@@ -363,7 +363,11 @@ https://github.com/gianni-dalerta/awesome-nft
 https://metaversal.banklesshq.com/p/how-to-mint-music-nfts-
 
 # Technical stuff
-- VM - Ethereum Virtual Mashine 
+
+- Huge list of anythhing zk, finance, deep technical, derivates, papers.. 
+https://github.com/sambacha/compendium
+
+- EVM - Ethereum Virtual Mashine 
 https://github.com/ethereum/wiki/wiki/Design-Rationale#virtual-machine
 
 - Technical stuff about Blockchain-level protocol, Accounts and not UTXOs, Merkle Patricia Trees, RLP
@@ -387,6 +391,7 @@ https://github.com/ledgerwatch/turbo-geth/blob/master/docs/firehose.MD#Command-S
 
 - Merkle trees 
 https://github.com/protolambda/eth-merkle-trees/blob/master/typing_partial
+
 
 # Tokens, ERC-20...
 - The Dangers of Token integration, slides focused on security of ERC-20 token contract
