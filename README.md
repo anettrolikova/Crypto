@@ -436,3 +436,6 @@ https://boost.flashbots.net/
 
 - Post Merge MEV
 https://twitter.com/lightclients/status/1533915131536605185
+
+- MEV and me 
+https://research.paradigm.xyz/MEV
