@@ -433,3 +433,6 @@ https://twitter.com/0xmisaka/status/1542224384173244418
 
 - MEV Boost - Implementation of PBS 
 https://boost.flashbots.net/
+
+- Post Merge MEV
+https://twitter.com/lightclients/status/1533915131536605185
