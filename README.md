@@ -41,6 +41,9 @@ https://outlast.me/twelve-questions/
 - Cypherpunks mailing list - OG literature cypherpunks movement
 http://mailing-list-archive.cryptoanarchy.wiki/
 
+- Hitchhikers guide to Ethereum - huge but super informative and up to date how Ethereum works, runs and all important deets
+https://members.delphidigital.io/reports/the-hitchhikers-guide-to-ethereum/
+
 - Newsletter for beginners
 https://creatoreconomy.so/p/curious-beginner-guide-to-crypto
 
@@ -427,3 +430,6 @@ https://medium.com/@toni_w/practical-guide-into-analyzing-mev-in-the-proof-of-st
 
 - Thread on MEV 
 https://twitter.com/0xmisaka/status/1542224384173244418
+
+- MEV Boost - Implementation of PBS 
+https://boost.flashbots.net/
