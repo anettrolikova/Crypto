@@ -18,7 +18,7 @@ Disclaimer: This repo is Work In Progress and I'm adding new links on a very irr
 - [Technical stuff](https://github.com/anettrolikova/Crypto/blob/master/README.md#technical-stuff)
 - [Tokens, ERC-20...](https://github.com/anettrolikova/Crypto/blob/master/README.md#tokens-erc-20)
 - [L2s,Optimistic rollups, plasma, ZK](https://github.com/anettrolikova/Crypto/blob/master/README.md#optimistic-rollups-plasma-zk-l2)
-- [MEV]()
+- [MEV](https://github.com/anettrolikova/Crypto/blob/master/README.md#mev)
 
 # Getting started with Crypto
 - Before you jump into Ethereum Community, read this piece - general knowleadge about Crypto 
