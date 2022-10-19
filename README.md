@@ -1,4 +1,4 @@
-# Anett's currated Crypto list
+# Anett's curated Crypto list 
 Everything interesting that I found and it’s cool to read & play around :)
 I'm currating this list of links since 2018 when I first started educating myself about crypto and web3 ecosystem. 
 
@@ -18,6 +18,7 @@ Disclaimer: This repo is Work In Progress and I'm adding new links on a very irr
 - [Technical stuff](https://github.com/anettrolikova/Crypto/blob/master/README.md#technical-stuff)
 - [Tokens, ERC-20...](https://github.com/anettrolikova/Crypto/blob/master/README.md#tokens-erc-20)
 - [L2s,Optimistic rollups, plasma, ZK](https://github.com/anettrolikova/Crypto/blob/master/README.md#optimistic-rollups-plasma-zk-l2)
+- [MEV]()
 
 # Getting started with Crypto
 - Before you jump into Ethereum Community, read this piece - general knowleadge about Crypto 
@@ -417,4 +418,12 @@ https://medium.com/ethereum-magicians/layer-2-learnings-by-ethereum-magicians-22
 - L2s overview - huge list of Q&A all things L2 
 https://thedailyape.notion.site/Layer-2s-0f982eedaa3d4807a586edd480391188
 
+# MEV
+- Awesome MEV Boost
+https://github.com/thegostep/awesome-mev-boost 
 
+- Practical Guide into analyzing MEV in the PoS era
+https://medium.com/@toni_w/practical-guide-into-analyzing-mev-in-the-proof-of-stake-era-e2b024509918
+
+- Thread on MEV 
+https://twitter.com/0xmisaka/status/1542224384173244418
