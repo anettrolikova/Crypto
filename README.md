@@ -396,6 +396,9 @@ https://github.com/ledgerwatch/turbo-geth/blob/master/docs/firehose.MD#Command-S
 - Merkle trees 
 https://github.com/protolambda/eth-merkle-trees/blob/master/typing_partial
 
+- Structuring Blockspace Derivatives - financial contracts that allow users to hedge their exposure to fluctuations in gas prices
+https://mirror.xyz/0x03c29504CEcCa30B93FF5774183a1358D41fbeB1/WKa3GFC03uY34d2MufTyD0c595xVRUEZi9RNG-dHNKs
+
 
 # Tokens, ERC-20...
 - The Dangers of Token integration, slides focused on security of ERC-20 token contract
