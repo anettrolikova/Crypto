@@ -15,7 +15,7 @@ Disclaimer: This repo is Work In Progress and I'm adding new links on a very irr
 - [DeFi](https://github.com/anettrolikova/Crypto/blob/master/README.md#defi)
 - [DAO](https://github.com/anettrolikova/Crypto/blob/master/README.md#dao)
 - [NFTs](https://github.com/anettrolikova/Crypto/blob/master/README.md#nfts)
-- [Technical stuff](https://github.com/anettrolikova/Crypto/blob/master/README.md#technical-stuff)
+- [Technical stuff - EVM](https://github.com/anettrolikova/Crypto/blob/master/README.md#technical-stuff)
 - [Tokens, ERC-20...](https://github.com/anettrolikova/Crypto/blob/master/README.md#tokens-erc-20)
 - [L2s,Optimistic rollups, plasma, ZK](https://github.com/anettrolikova/Crypto/blob/master/README.md#optimistic-rollups-plasma-zk-l2)
 - [MEV](https://github.com/anettrolikova/Crypto/blob/master/README.md#mev)
@@ -366,13 +366,16 @@ https://github.com/gianni-dalerta/awesome-nft
 - How to mint music NFTs - everything what you want to know when starting with NFTfying your music
 https://metaversal.banklesshq.com/p/how-to-mint-music-nfts-
 
-# Technical stuff
+# Technical stuff - EVM
 
 - Huge list of anythhing zk, finance, deep technical, derivates, papers.. 
 https://github.com/sambacha/compendium
 
 - EVM - Ethereum Virtual Mashine 
 https://github.com/ethereum/wiki/wiki/Design-Rationale#virtual-machine
+
+- EVM Deep Dives: The Path to Shadowy Super Coder - Part 1 - great Substack on EVM deep dive
+https://noxx.substack.com/p/evm-deep-dives-the-path-to-shadowy
 
 - Technical stuff about Blockchain-level protocol, Accounts and not UTXOs, Merkle Patricia Trees, RLP
 Compression algorithm,Trie Usage, Uncle incentivization,Difficulty Update Algorithm, Gas and Fees, Virtual Machine
