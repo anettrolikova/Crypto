@@ -446,5 +446,8 @@ https://twitter.com/lightclients/status/1533915131536605185
 - MEV and me 
 https://research.paradigm.xyz/MEV
 
-- Flash Boys 2.0: Frontrunning, Transaction Reordering, and Consensus Instability in Decentralized Exchanges
+- Flash Boys 2.0: Frontrunning, Transaction Reordering, and Consensus Instability in Decentralized Exchanges - the famous paper
 https://arxiv.org/abs/1904.05234
+
+- Building MEV from scratch 
+https://www.notion.so/Building-an-EVM-from-scratch-part-1-the-execution-context-c28ebb4200c94f6fb75948a5feffc686 
