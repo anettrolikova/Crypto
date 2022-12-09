@@ -86,6 +86,10 @@ https://medium.com/better-programming/run-an-ethereum-node-on-linux-late-2019-b3
 
 
 # Learning portals
+
+- Inevitable Ethereum - History, finance, computer science, elliptic curve cryptography... everything needed to see the future
+https://inevitableeth.com/en/home/ethereum/evm
+
 - Solidity by example - an introduction to Solidity with simple examples
 https://solidity-by-example.org/
 
