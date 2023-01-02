@@ -15,7 +15,7 @@ Disclaimer: This repo is Work In Progress and I'm adding new links on a very irr
 - [DeFi](https://github.com/anettrolikova/Crypto/blob/master/README.md#defi)
 - [DAO](https://github.com/anettrolikova/Crypto/blob/master/README.md#dao)
 - [NFTs](https://github.com/anettrolikova/Crypto/blob/master/README.md#nfts)
-- [Technical stuff - EVM](https://github.com/anettrolikova/Crypto/blob/master/README.md#technical-stuff)
+- [EVM](https://github.com/anettrolikova/Crypto/blob/master/README.md#technical-stuff)
 - [Tokens, ERC-20...](https://github.com/anettrolikova/Crypto/blob/master/README.md#tokens-erc-20)
 - [L2s,Optimistic rollups, plasma, ZK](https://github.com/anettrolikova/Crypto/blob/master/README.md#optimistic-rollups-plasma-zk-l2)
 - [MEV](https://github.com/anettrolikova/Crypto/blob/master/README.md#mev)
@@ -370,7 +370,7 @@ https://github.com/gianni-dalerta/awesome-nft
 - How to mint music NFTs - everything what you want to know when starting with NFTfying your music
 https://metaversal.banklesshq.com/p/how-to-mint-music-nfts-
 
-# Technical stuff - EVM
+# EVM
 
 - Huge list of anythhing zk, finance, deep technical, derivates, papers.. 
 https://github.com/sambacha/compendium
@@ -408,6 +408,9 @@ https://mirror.xyz/0x03c29504CEcCa30B93FF5774183a1358D41fbeB1/WKa3GFC03uY34d2Muf
 
 - Playdate with EVM
 https://femboy.capital/evm-pt1 
+
+- EVM Deepdive 
+https://www.devpill.me/docs/smart-contract-development/evm-deep-dive/ 
 
 
 # Tokens, ERC-20...
