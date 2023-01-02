@@ -11,7 +11,7 @@ Disclaimer: This repo is Work In Progress and I'm adding new links on a very irr
 - [Cool Projects](https://github.com/anettrolikova/Crypto/blob/master/README.md#cool-projects)
 - [ETH1.x](https://github.com/anettrolikova/Crypto/blob/master/README.md#eth-1x)
 - [ETH1.x to ETH2.0](https://github.com/anettrolikova/Crypto/blob/master/README.md#eth1x-to-eth20)
-- [ETH2.0](https://github.com/anettrolikova/Crypto/blob/master/README.md#eth-20)
+- [ETH2.0 - PoS](https://github.com/anettrolikova/Crypto/blob/master/README.md#eth-20)
 - [DeFi](https://github.com/anettrolikova/Crypto/blob/master/README.md#defi)
 - [DAO](https://github.com/anettrolikova/Crypto/blob/master/README.md#dao)
 - [NFTs](https://github.com/anettrolikova/Crypto/blob/master/README.md#nfts)
@@ -164,14 +164,11 @@ https://www.chainshot.com/
 - Blockchain Developer Job Kit
 https://pages.consensys.net/blockchain-developer-job-kit
 
-- Cool tools for Smart Contracts
+- Truffle for Smart Contracts
 https://www.trufflesuite.com/
 
 - Knowledge & Tools 
 https://consensys.net/developers/
-
-- Awesome EVM 
-https://github.com/pirapira/awesome-ethereum-virtual-machine
 
 - Quickly build your next Defi dapp in no time
 https://money-legos.studydefi.com/#/quickstart
@@ -194,6 +191,7 @@ https://github.com/dapphub/dapptools
 - Foundry - A smart contract development toolchain in Rust. Foundry manages your dependencies, compiles your project, runs tests, deploys, and lets you interact with the chain from the command-line and via Solidity scripts.
 https://book.getfoundry.sh/ 
 https://github.com/foundry-rs/foundry
+https://www.paradigm.xyz/2021/12/introducing-the-foundry-ethereum-development-toolbox#whats-the-vision
 
 
 # Cool projects 
@@ -238,7 +236,7 @@ https://github.com/ledgerwatch/turbo-geth/blob/master/docs/programmers_guide/gui
 -  Roadmap ETH1.x to ETH2.0
 https://notes.ethereum.org/cISMnGRMR6-EWka8QLLlYw
 
-# ETH 2.0
+# ETH 2.0 - PoS
 - ETH2 for Dummies - great simple overview of ETH2.0 and how it works (incl beacon chain expl, launch dates, teams working on it) 
 https://medium.com/@chromaticcapital/eth2-for-dummies-11ff9b11509f
 
@@ -379,6 +377,9 @@ https://github.com/gianni-dalerta/awesome-nft
 https://metaversal.banklesshq.com/p/how-to-mint-music-nfts-
 
 # EVM
+
+- Awesome EVM 
+https://github.com/pirapira/awesome-ethereum-virtual-machine
 
 - Huge list of anythhing zk, finance, deep technical, derivates, papers.. 
 https://github.com/sambacha/compendium
