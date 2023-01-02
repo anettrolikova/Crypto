@@ -461,3 +461,33 @@ https://arxiv.org/abs/1904.05234
 
 - Building MEV from scratch 
 https://www.notion.so/Building-an-EVM-from-scratch-part-1-the-execution-context-c28ebb4200c94f6fb75948a5feffc686 
+
+# Community & Dev Rel
+Any links related to community building, this will be a bit off category but I'd like to keep all cool links related to my involvement one place 
+
+- Become mentor, become mentee - having mentor in your career is crucial
+https://www.get-merit.com/
+
+- DevOps days 
+list of Web2 DevOps Conferences related to DevRel
+https://devopsdays.org/
+
+- Building High Impact Developer Communities 
+A GUIDE TO GROWING DEVELOPER ECOSYSTEMS
+https://nader.substack.com/p/building-high-impact-developer-communities
+
+- Tracking Community Growth 
+tracking active members across discord, twitter, etc. No web3 features though & crm-like functionality isn't as great based on what I've seen
+https://orbit.love/ 
+
+- DevRel
+Content related to DevRel role, DevRel confs.. 
+https://developerrelations.com/ 
+
+- Advices for DevRel
+Advices for building dev communities, how to engage with dev communities
+https://www.whatisdevrel.com/
+
+- Orbit model for community building 
+The Orbit Model is a tool for organizing, visualizing, and measuring communities. Since 2016, the model has fostered thousands of conversations about what makes communities work and how to grow, strengthen, and measure them.
+https://orbit.love/model
