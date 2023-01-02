@@ -188,6 +188,13 @@ https://www.sbt-ethereum.io/method_to_the_madness.html
 - Auditing excercises - learrn how to audit contracts
 https://github.com/spearbit-audits/writing-exercise
 
+- Dapptools - A suite of Ethereum focused CLI tools following the Unix design philosophy, favoring composability, configurability and extensibility.
+https://github.com/dapphub/dapptools
+
+- Foundry - A smart contract development toolchain in Rust. Foundry manages your dependencies, compiles your project, runs tests, deploys, and lets you interact with the chain from the command-line and via Solidity scripts.
+https://book.getfoundry.sh/ 
+https://github.com/foundry-rs/foundry
+
 
 # Cool projects 
 
