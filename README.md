@@ -500,3 +500,8 @@ https://www.whatisdevrel.com/
 - Orbit model for community building 
 The Orbit Model is a tool for organizing, visualizing, and measuring communities. Since 2016, the model has fostered thousands of conversations about what makes communities work and how to grow, strengthen, and measure them.
 https://orbit.love/model
+
+- **Developer Avocados**
+A weekly email roundup of Developer Avocados 🥑 (Developer advocates) CFPs (Call for Papers to speak at events), resources and articles.
+https://developeravocados.net/
+    - Their twitter page also has some good resources: https://twitter.com/devrelavocados
