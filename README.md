@@ -500,3 +500,32 @@ https://www.whatisdevrel.com/
 - Orbit model for community building 
 The Orbit Model is a tool for organizing, visualizing, and measuring communities. Since 2016, the model has fostered thousands of conversations about what makes communities work and how to grow, strengthen, and measure them.
 https://orbit.love/model
+
+# Web3 Job boards 
+Where to look for a job in Web3
+
+- https://web3.career
+
+- https://angel.co/jobs
+
+- https://bankless.pallet.com/jobs
+
+- https://jobs.defialliance.co/jobs
+
+- https://network.seedclub.xyz
+
+- https://cryptocurrencyjobs.co
+
+- https://blocktribe.com
+
+- https://crypto.jobs
+
+- https://consensys.net/careers/
+
+- https://reddit.com/r/Jobs4Crypto
+
+- https://blockace.io
+
+- https://jobsboard.zeroknowledge.fm
+
+- https://cryptojobslist.com
