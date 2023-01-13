@@ -538,3 +538,6 @@ https://polymerlabs.medium.com/an-introduction-to-polymer-labs-cosmos-and-ibc-in
 
 - IBC deep dive explanantion 
 https://polymerlabs.medium.com/blockchain-bridges-101-a-guide-to-inter-blockchain-communication-ibc-3efc092770b1 
+
+- All info about relayers - pretty technical article. TL:DR on relayers - information & message pagers between blockchain modules 
+https://medium.com/the-interchain-foundation/relaying-the-message-a-deep-dive-into-ibc-relayer-operations-6ff763a2a22f
