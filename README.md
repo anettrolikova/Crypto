@@ -533,5 +533,8 @@ Where to look for a job in Web3
 
 # Interchain
 
-- IBC explanantion
+- IBC explanantion - overview
 https://polymerlabs.medium.com/an-introduction-to-polymer-labs-cosmos-and-ibc-inter-blockchain-communication-b9f941ee2cdb
+
+- IBC deep dive explanantion 
+https://polymerlabs.medium.com/blockchain-bridges-101-a-guide-to-inter-blockchain-communication-ibc-3efc092770b1 
