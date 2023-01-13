@@ -530,3 +530,8 @@ Where to look for a job in Web3
 - https://jobsboard.zeroknowledge.fm
 
 - https://cryptojobslist.com
+
+# Interchain
+
+- IBC explanantion
+https://polymerlabs.medium.com/an-introduction-to-polymer-labs-cosmos-and-ibc-inter-blockchain-communication-b9f941ee2cdb
