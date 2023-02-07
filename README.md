@@ -21,6 +21,7 @@ Disclaimer: This repo is Work In Progress and I'm adding new links on a very irr
 - [MEV](https://github.com/anettrolikova/Crypto/blob/master/README.md#mev)
 - [Community & Dev Rel](https://github.com/anettrolikova/Crypto#community--dev-rel)
 - [Web3 Job boards](https://github.com/anettrolikova/Crypto/blob/master/README.md#web3-job-boards)
+- [Interchain](https://github.com/anettrolikova/Crypto#interchain)
 
 # Getting started with Crypto
 - Before you jump into Ethereum Community, read this piece - general knowleadge about Crypto 
