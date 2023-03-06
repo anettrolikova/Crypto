@@ -448,6 +448,9 @@ https://medium.com/ethereum-magicians/layer-2-learnings-by-ethereum-magicians-22
 - L2s overview - huge list of Q&A all things L2 
 https://thedailyape.notion.site/Layer-2s-0f982eedaa3d4807a586edd480391188
 
+- Through the looking glass: A cross-chain sealed-bid auction using Aztec Connect
+https://a16zcrypto.com/through-the-looking-glass-a-cross-chain-sealed-bid-auction-using-aztec-connect/
+
 # MEV
 - Awesome MEV Boost
 https://github.com/thegostep/awesome-mev-boost 
