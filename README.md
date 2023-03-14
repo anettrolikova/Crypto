@@ -150,6 +150,12 @@ https://tutorials.ethvigil.com/
 - Its super power is interating on smart contracts as you build your frontend. It's great for building decentralized applications on Ethereum.
 http://scaffoldeth.io/
 
+- ZK Class 1
+https://docs.google.com/presentation/d/1ZsrNvSNJUYsojLWgYNPwurb4wi5rZrcscCCiNgUqFN8/edit#slide=id.g172998961be_0_179
+
+- ZK Class 2 
+https://docs.google.com/presentation/d/1PDuIZN8SxWFegbesTyTWBN8uTjb7nSGAlhcJ6YwjRek/edit#slide=id.p
+
 # Developers
 - Learning resources, where to start as Web3 developer and so many great sources of blogs
 https://www.useweb3.xyz/
@@ -301,6 +307,9 @@ https://hackernoon.com/what-to-expect-when-eths-expecting-80cb4951afcd
 - ETH2.0 designing goals 
 https://media.consensys.net/exploring-the-ethereum-2-0-design-goals-fd2d901b4c01
 
+- Since the Merge: How Are Things Changing?
+https://pintail.xyz/posts/since-the-merge/
+
 # DeFi 
 - DeFi school
 https://defi.school/
@@ -432,7 +441,7 @@ https://github.com/OpenZeppelin/workshops/blob/master/11-dangers-token-integrati
 https://github.com/sec-bit/awesome-buggy-erc20-tokens
 
 
-# L2s, Optimistic rollups, plasma, ZK,
+# L2s, Optimistic rollups, plasma, ZK, Polynomial Comitments
 - Awesome Zeroo Knowledge Proofs - all you need to oknow, huge repo of all thngs ZKP
 https://github.com/matter-labs/awesome-zero-knowledge-proofs
 
@@ -450,6 +459,15 @@ https://thedailyape.notion.site/Layer-2s-0f982eedaa3d4807a586edd480391188
 
 - Through the looking glass: A cross-chain sealed-bid auction using Aztec Connect
 https://a16zcrypto.com/through-the-looking-glass-a-cross-chain-sealed-bid-auction-using-aztec-connect/
+
+- Kate-Zaverucha-Goldberg (KZG) Constant-Sized Polynomial Commitments
+https://alinush.github.io/2020/05/06/kzg-polynomial-commitments.html
+
+- KZG in Practice: Polynomial Commitment Schemes and Their Usage in Scaling Ethereum
+https://scroll.io/blog/kzg
+
+- Compilers and IRs: LLVM IR, SPIR-V, and MLIR
+https://www.lei.chat/posts/compilers-and-irs-llvm-ir-spirv-and-mlir/
 
 # MEV
 - Awesome MEV Boost
