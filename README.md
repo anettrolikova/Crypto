@@ -432,6 +432,8 @@ https://femboy.capital/evm-pt1
 - EVM Deepdive 
 https://www.devpill.me/docs/smart-contract-development/evm-deep-dive/ 
 
+- Ethereum Data Structures 
+https://arxiv.org/pdf/2108.05513.pdf
 
 # Tokens, ERC-20...
 - The Dangers of Token integration, slides focused on security of ERC-20 token contract
@@ -468,6 +470,12 @@ https://scroll.io/blog/kzg
 
 - Compilers and IRs: LLVM IR, SPIR-V, and MLIR
 https://www.lei.chat/posts/compilers-and-irs-llvm-ir-spirv-and-mlir/
+
+- KZG polynomial commitments
+https://dankradfeist.de/ethereum/2020/06/16/kate-polynomial-commitments.html
+
+- ZKP Knowledgebase - polynomials, snarks... lots of nerdy math like ZKP Compiler design, Hardware acceleration, Lightclient, Arithmetic Fields, Efficient Signatures, Proof Aggregation, Vulnerabilities, Licensing, Verifiable Delay Functions (VDF),Formal Verification, Proof Systems
+https://kb.delendum.xyz/zk-knowledge#vulnerabilities
 
 # MEV
 - Awesome MEV Boost
