@@ -563,6 +563,9 @@ Where to look for a job in Web3
 
 # Interchain
 
+- The Cosmos hub as port city of a blockchains - "Blockchains are virtual cities: districts of economic and cultural exchange, where common infrastructure gives rise to a mutual sense of place and a shared social fabric."
+https://medium.com/cosmos-blockchain/the-cosmos-hub-is-a-port-city-5b7f2d28debf
+
 - IBC explanantion - overview
 https://polymerlabs.medium.com/an-introduction-to-polymer-labs-cosmos-and-ibc-inter-blockchain-communication-b9f941ee2cdb
 
