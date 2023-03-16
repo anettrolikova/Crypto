@@ -574,3 +574,8 @@ https://polymerlabs.medium.com/blockchain-bridges-101-a-guide-to-inter-blockchai
 
 - All info about relayers - pretty technical article. TL:DR on relayers - information & message pagers between blockchain modules 
 https://medium.com/the-interchain-foundation/relaying-the-message-a-deep-dive-into-ibc-relayer-operations-6ff763a2a22f
+
+- Bridges - general overview page - benefits of using a bridge, types : Lock and mint – Lock assets on the source chain and mint assets on the destination chain.
+Burn and mint – Burn assets on the source chain and mint assets on the destination chain.
+Atomic swaps – Swap assets on the source chain for assets on the destination chain with another party.
+https://ethereum.org/en/developers/docs/bridges/#how-do-bridges-work
