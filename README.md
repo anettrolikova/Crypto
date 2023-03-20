@@ -579,3 +579,8 @@ https://medium.com/the-interchain-foundation/relaying-the-message-a-deep-dive-in
 Burn and mint – Burn assets on the source chain and mint assets on the destination chain.
 Atomic swaps – Swap assets on the source chain for assets on the destination chain with another party.
 https://ethereum.org/en/developers/docs/bridges/#how-do-bridges-work
+
+- The Cross-Chain Money Lego
+"multi-chain = users can find a dApp or token on multiple networks
+cross-chain = users can interact with a contract, dApp, token, etc., across multiple chains in one user-interface"
+https://medium.com/lifinance/li-fi-the-cross-chain-money-lego-df9534c7efcc
