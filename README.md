@@ -44,6 +44,9 @@ https://outlast.me/twelve-questions/
 - Cypherpunks mailing list - OG literature cypherpunks movement
 http://mailing-list-archive.cryptoanarchy.wiki/
 
+- Simple Guide to the Web3 Stack
+https://www.coinbase.com/blog/a-simple-guide-to-the-web3-stack
+
 - Hitchhikers guide to Ethereum - huge but super informative and up to date how Ethereum works, runs and all important deets
 https://members.delphidigital.io/reports/the-hitchhikers-guide-to-ethereum/
 
@@ -86,7 +89,6 @@ https://medium.com/@goltra/three-crypto-takeaways-from-2018-1f9f05ca4e35
 
 - How to run Ethereum node - Geth 
 https://medium.com/better-programming/run-an-ethereum-node-on-linux-late-2019-b37a1d35800e
-
 
 # Learning portals
 
