@@ -483,6 +483,9 @@ https://kb.delendum.xyz/zk-knowledge#vulnerabilities
 - Awesome MEV Boost
 https://github.com/thegostep/awesome-mev-boost 
 
+- MEV Resources - huge notion pad - articles, publications, MEV Boost & SUAVE, podcasts, videos, conferences, other MEV resources 
+https://succulent-throat-0ce.notion.site/MEV-Resources-a3b3d108c3c64aac8d0f398de5a3cfdc
+
 - Practical Guide into analyzing MEV in the PoS era
 https://medium.com/@toni_w/practical-guide-into-analyzing-mev-in-the-proof-of-stake-era-e2b024509918
 
