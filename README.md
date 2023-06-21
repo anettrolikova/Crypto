@@ -479,6 +479,9 @@ https://dankradfeist.de/ethereum/2020/06/16/kate-polynomial-commitments.html
 - ZKP Knowledgebase - polynomials, snarks... lots of nerdy math like ZKP Compiler design, Hardware acceleration, Lightclient, Arithmetic Fields, Efficient Signatures, Proof Aggregation, Vulnerabilities, Licensing, Verifiable Delay Functions (VDF),Formal Verification, Proof Systems
 https://kb.delendum.xyz/zk-knowledge#vulnerabilities
 
+- Sovereign rollup
+https://mirror.xyz/0x55a0c204c6fDd0DCf238430cb4BF79D45e8D9Bc3/x2tOM-u5vkgmmmkCPHLvorhC7PSbDQK6LQmB6mjNw1k
+
 # MEV
 - Awesome MEV Boost
 https://github.com/thegostep/awesome-mev-boost 
