@@ -6,7 +6,7 @@ Disclaimer: This repo is Work In Progress and I'm adding new links on a very irr
 
 ## Table of Content: 
 - [Getting started with crypto](https://github.com/anettrolikova/Crypto/blob/master/README.md#general-about-crypto)
-- [Learning Portals](https://github.com/anettrolikova/Crypto/blob/master/README.md#learning-portals)
+- [Learning Portals & Fellowships](https://github.com/anettrolikova/Crypto/blob/master/README.md#learning-portals)
 - [Developers](https://github.com/anettrolikova/Crypto/blob/master/README.md#developers)
 - [Cool Projects](https://github.com/anettrolikova/Crypto/blob/master/README.md#cool-projects)
 - [ETH1.x](https://github.com/anettrolikova/Crypto/blob/master/README.md#eth-1x)
@@ -90,7 +90,7 @@ https://medium.com/@goltra/three-crypto-takeaways-from-2018-1f9f05ca4e35
 - How to run Ethereum node - Geth 
 https://medium.com/better-programming/run-an-ethereum-node-on-linux-late-2019-b37a1d35800e
 
-# Learning portals
+# Learning portals & Fellowships
 
 - Inevitable Ethereum - History, finance, computer science, elliptic curve cryptography... everything needed to see the future
 https://inevitableeth.com/en/home/ethereum/evm
@@ -157,6 +157,14 @@ https://docs.google.com/presentation/d/1ZsrNvSNJUYsojLWgYNPwurb4wi5rZrcscCCiNgUq
 
 - ZK Class 2 
 https://docs.google.com/presentation/d/1PDuIZN8SxWFegbesTyTWBN8uTjb7nSGAlhcJ6YwjRek/edit#slide=id.p
+
+- ZK course - This class aims to bring together students and experts in academia and industry to explore Zero-Knowledge Proofs (ZKP)
+https://zk-learning.org/
+
+- Auditing and security program fellowship for software devs - smart contract fellowship, zk fellowship
+https://yacademy.dev/fellowships/
+
+
 
 # Developers
 - Learning resources, where to start as Web3 developer and so many great sources of blogs
