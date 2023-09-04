@@ -600,3 +600,6 @@ https://ethereum.org/en/developers/docs/bridges/#how-do-bridges-work
 "multi-chain = users can find a dApp or token on multiple networks
 cross-chain = users can interact with a contract, dApp, token, etc., across multiple chains in one user-interface"
 https://medium.com/lifinance/li-fi-the-cross-chain-money-lego-df9534c7efcc
+
+- Cross chain vs Multichain
+https://medium.com/evmos/cross-chain-vs-multi-chain-revisited-ea771e204b8f
