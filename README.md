@@ -554,6 +554,9 @@ https://orbit.love/model
 # Web3 Job boards 
 Where to look for a job in Web3
 
+- Good thread on Web3 Job hunt
+https://x.com/0xwillthetrill/status/1668271399721398273?s=20
+
 - https://web3.career
 
 - https://angel.co/jobs
@@ -579,6 +582,12 @@ Where to look for a job in Web3
 - https://jobsboard.zeroknowledge.fm
 
 - https://cryptojobslist.com
+
+- https://jobs.framework.ventures/companies
+
+- https://jobs.panteracapital.com/jobs
+
+- https://myweb3jobs.com/
 
 # Interchain
 
