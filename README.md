@@ -583,13 +583,17 @@ https://x.com/0xwillthetrill/status/1668271399721398273?s=20
 
 - https://cryptojobslist.com
 
+- https://myweb3jobs.com/
+  
+  VCs / ecosystems have their lists of open roles for their portfolio companies: 
+
 - https://jobs.framework.ventures/companies
 
 - https://jobs.panteracapital.com/jobs
 
-- https://myweb3jobs.com/
-
 - https://jobs.optimism.io/jobs
+
+- https://jobs.lattice.fund/jobs
 
 # Interchain
 
