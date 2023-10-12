@@ -597,6 +597,10 @@ https://x.com/0xwillthetrill/status/1668271399721398273?s=20
 
 - https://jobs.a16z.com/jobs
 
+  Great reads related to job search:
+  
+  - https://philipliao.com/job-search
+
 # Interchain
 
 - The Cosmos hub as port city of a blockchains - "Blockchains are virtual cities: districts of economic and cultural exchange, where common infrastructure gives rise to a mutual sense of place and a shared social fabric."
