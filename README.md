@@ -627,3 +627,6 @@ https://medium.com/lifinance/li-fi-the-cross-chain-money-lego-df9534c7efcc
 
 - Cross chain vs Multichain
 https://medium.com/evmos/cross-chain-vs-multi-chain-revisited-ea771e204b8f
+
+- The Future of Cross-chain: What Went Wrong and How We Can Move Forward 
+https://blog.buildwithsygma.com/future-of-cross-chain/
