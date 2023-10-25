@@ -584,6 +584,8 @@ https://x.com/0xwillthetrill/status/1668271399721398273?s=20
 - https://cryptojobslist.com
 
 - https://myweb3jobs.com/
+
+- https://wellfound.com/startups/industry/web3-4
   
   VCs / ecosystems have their lists of open roles for their portfolio companies: 
 
