@@ -595,6 +595,8 @@ Where to look for a job in Web3
 - https://jobs.lattice.fund/jobs
 
 - https://jobs.a16z.com/jobs
+  
+- https://opportunities.lido.fi/
 
 Great reads related to job search:
   
