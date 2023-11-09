@@ -164,6 +164,8 @@ https://zk-learning.org/
 - Auditing and security program fellowship for software devs - smart contract fellowship, zk fellowship
 https://yacademy.dev/fellowships/
 
+- List of 40 blockchain portals - similar to listed above
+https://blog.developerdao.com/40-free-online-learning-platforms-for-web3-enthusiasts
 
 
 # Developers
