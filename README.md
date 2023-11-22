@@ -599,6 +599,8 @@ Where to look for a job in Web3
 - https://jobs.a16z.com/jobs
   
 - https://opportunities.lido.fi/
+  
+- https://jobs.solana.com/jobs
 
 Great reads related to job search:
   
