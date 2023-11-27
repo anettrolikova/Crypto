@@ -553,6 +553,12 @@ https://www.whatisdevrel.com/
 The Orbit Model is a tool for organizing, visualizing, and measuring communities. Since 2016, the model has fostered thousands of conversations about what makes communities work and how to grow, strengthen, and measure them.
 https://orbit.love/model
 
+- Book - The Business of Belonging: How to Build Communities That Grow the Bottom Line, David Spinks
+https://www.goodreads.com/book/show/55180348-the-business-of-belonging?ac=1&from_search=true&qid=ymtqROtLlQ&rank=1
+
+
+
+
 # Web3 Job boards 
 Where to look for a job in Web3
 
