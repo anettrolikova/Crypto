@@ -556,8 +556,8 @@ https://orbit.love/model
 - Book - The Business of Belonging: How to Build Communities That Grow the Bottom Line, David Spinks
 https://www.goodreads.com/book/show/55180348-the-business-of-belonging?ac=1&from_search=true&qid=ymtqROtLlQ&rank=1
 
-
-
+- Lot's of community building related blogs
+https://communitycoach.me/my-blog/
 
 # Web3 Job boards 
 Where to look for a job in Web3
