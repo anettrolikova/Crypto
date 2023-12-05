@@ -593,6 +593,8 @@ Where to look for a job in Web3
 - https://wellfound.com/startups/industry/web3-4
 
 - https://app.jobstash.xyz/jobs
+
+- https://interested.fyi/
   
   VCs / ecosystems have their lists of open roles for their portfolio companies: 
 
