@@ -257,6 +257,7 @@ Multi-chain Faucets - supporting more tokens and chains than listed above
 - https://faucet.quicknode.com/drip
 - https://www.covalenthq.com/faucet/
 - https://www.coinbase.com/faucets
+- https://faucet.triangleplatform.com/
 
 Base Goeli Faucets 
 - https://learnweb3.io/faucets/base_goerli
