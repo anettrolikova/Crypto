@@ -234,7 +234,7 @@ Goerli Faucets - Goerli will get depreciated soon! Try to use Sepolia instead
 - https://goerlifaucet.org/
 - https://www.allthatnode.com/faucet/ethereum.dsrv - Goerli and Sepolia
 - https://goerli-faucet.mudit.blog/
-- https://faucet.goerli.starknet.io/
+- https://faucet.goerli.starknet.io/ - Starknet Goerli
 - https://faucet.triangleplatform.com/ethereum/goerli
 - https://faucet.polygon.technology/
 - https://grabteeth.xyz/ - Goerli and Sepolia
@@ -255,6 +255,8 @@ Optimism Faucets
 Multi-chain Faucets - supporting more tokens and chains than listed above 
 - https://bwarelabs.com/faucets
 - https://faucet.quicknode.com/drip
+- https://www.covalenthq.com/faucet/
+- https://www.coinbase.com/faucets
 
 Base Goeli Faucets 
 - https://learnweb3.io/faucets/base_goerli
