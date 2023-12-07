@@ -227,7 +227,7 @@ https://evmts.dev/
 - USDC & EURC 
 https://faucet.circle.com/
 
-Goerli Faucets - Goerli will get depreciated soon! Try to use Sepolia instead 
+Goerli Faucets - Goerli will get depreciated soon! Try to use Holesky or Sepolia instead 
 - https://faucet.quicknode.com/ethereum/goerli
 - https://goerlifaucet.com/
 - https://goerli-faucet.pk910.de/
@@ -248,6 +248,10 @@ Sepolia Faucets
 
 Holesky Faucets
 - https://holesky-faucet.pk910.de/  
+
+Ephemery Faucets 
+- https://faucet.bordel.wtf/
+- https://ephemery-faucet.pk910.de/
 
 Optimism Faucets 
 - https://app.optimism.io/faucet - Superchain
