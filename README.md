@@ -8,7 +8,7 @@ Disclaimer: This repo is Work In Progress and I'm adding new links on a very irr
 - [Getting started with crypto](https://github.com/anettrolikova/Crypto/blob/master/README.md#general-about-crypto)
 - [Learning Portals & Fellowships](https://github.com/anettrolikova/Crypto/blob/master/README.md#learning-portals)
 - [Developers](https://github.com/anettrolikova/Crypto/blob/master/README.md#developers)
-- [Faucets]()
+- [Faucets](https://github.com/anettrolikova/Crypto/blob/master/README.md#faucets)
 - [Cool Projects](https://github.com/anettrolikova/Crypto/blob/master/README.md#cool-projects)
 - [ETH1.x](https://github.com/anettrolikova/Crypto/blob/master/README.md#eth-1x)
 - [ETH1.x to ETH2.0](https://github.com/anettrolikova/Crypto/blob/master/README.md#eth1x-to-eth20)
