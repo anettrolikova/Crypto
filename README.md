@@ -220,6 +220,8 @@ https://github.com/wslyvh/nexth/?tab=readme-ov-file
 - Hardhat - a development environment for Ethereum software. It consists of different components for editing, compiling, debugging and deploying your smart contracts and dApps, all of which work together to create a complete development environment.
 https://hardhat.org/
 
+- Bundler for Solidity - Solidity + Typescript
+https://evmts.dev/
 
 # Faucets 
 - USDC & EURC 
