@@ -8,6 +8,7 @@ Disclaimer: This repo is Work In Progress and I'm adding new links on a very irr
 - [Getting started with crypto](https://github.com/anettrolikova/Crypto/blob/master/README.md#general-about-crypto)
 - [Learning Portals & Fellowships](https://github.com/anettrolikova/Crypto/blob/master/README.md#learning-portals)
 - [Developers](https://github.com/anettrolikova/Crypto/blob/master/README.md#developers)
+- [Faucets]()
 - [Cool Projects](https://github.com/anettrolikova/Crypto/blob/master/README.md#cool-projects)
 - [ETH1.x](https://github.com/anettrolikova/Crypto/blob/master/README.md#eth-1x)
 - [ETH1.x to ETH2.0](https://github.com/anettrolikova/Crypto/blob/master/README.md#eth1x-to-eth20)
@@ -184,7 +185,7 @@ https://www.chainshot.com/
 - Blockchain Developer Job Kit
 https://pages.consensys.net/blockchain-developer-job-kit
 
-- Truffle for Smart Contracts
+- Truffle for Smart Contracts - depreciated
 https://www.trufflesuite.com/
 
 - Knowledge & Tools 
@@ -199,7 +200,7 @@ https://whollet.io/
 - Decentralised database for devs 
 https://gun.eco/docs/Todo-Dapp
 
-- Method to the Madness - sbt-ethereum intends to make interacting with, customizing, and deploying Ethereum smart contracts more “accessible” to non-developers
+- Method to the Madness - sbt-Ethereum intends to make interacting with, customizing, and deploying Ethereum smart contracts more “accessible” to non-developers
 https://www.sbt-ethereum.io/method_to_the_madness.html
 
 - Auditing excercises - learrn how to audit contracts
@@ -208,20 +209,64 @@ https://github.com/spearbit-audits/writing-exercise
 - Dapptools - A suite of Ethereum focused CLI tools following the Unix design philosophy, favoring composability, configurability and extensibility.
 https://github.com/dapphub/dapptools
 
-- Foundry - A smart contract development toolchain in Rust. Foundry manages your dependencies, compiles your project, runs tests, deploys, and lets you interact with the chain from the command-line and via Solidity scripts.
+- Foundry - A smart contract development toolchain in Rust. Foundry manages your dependencies, compiles your project, runs tests, deploys, and lets you interact with the chain from the command line and via Solidity scripts.
 https://book.getfoundry.sh/ 
 https://github.com/foundry-rs/foundry
 https://www.paradigm.xyz/2021/12/introducing-the-foundry-ethereum-development-toolbox#whats-the-vision
 
+- Nexth - A Next.js + Ethereum starter kit to quickly ship Web3 Apps
+https://github.com/wslyvh/nexth/?tab=readme-ov-file
+
+- Hardhat - a development environment for Ethereum software. It consists of different components for editing, compiling, debugging and deploying your smart contracts and dApps, all of which work together to create a complete development environment.
+https://hardhat.org/
+
+- 
+
+# Faucets 
+- USDC & EURC 
+https://faucet.circle.com/
+
+Goerli Faucets - Goerli will get depreciated soon! Try to use Sepolia instead 
+- https://faucet.quicknode.com/ethereum/goerli
+- https://goerlifaucet.com/
+- https://goerli-faucet.pk910.de/
+- https://goerlifaucet.org/
+- https://www.allthatnode.com/faucet/ethereum.dsrv
+- https://goerli-faucet.mudit.blog/
+- https://faucet.goerli.starknet.io/
+- https://faucet.triangleplatform.com/ethereum/goerli
+- https://faucet.polygon.technology/
+- https://grabteeth.xyz/ - Goerli and Sepolia
+- https://testnetbridge.com/ - buy Goerli ETH with Mainnet ETH
+
+Sepolia Faucets
+- https://sepolia-faucet.pk910.de/
+- https://faucet-sepolia.rockx.com/
+- https://faucet.sepolia.dev/
+- https://sepolia-faucet.pk910.de/ PoW
+
+Holesky Faucets
+- holesky-faucet.pk910.de  
+
+Optimism Faucets 
+- https://app.optimism.io/faucet - Superchain
+
+Multi-chain Faucets - supporting more tokens and chains than listed above 
+- https://bwarelabs.com/faucets
+- https://faucet.quicknode.com/drip
+
+Base Goeli Faucets 
+- https://learnweb3.io/faucets/base_goerli
+- https://www.coinbase.com/faucets/base-ethereum-goerli-faucet
 
 # Cool projects 
 
 - Testnet Faucet supports Ropsten, Kovan, Rinkeby, Görli, Optimistic Kovan, Arbitrum Rinkeby, Polygon Mumbai, and Avalanche Fuji
 https://faucet.paradigm.xyz/
 
-- You can use this app to deposit some ETH into a noncustodial smart contract, and then easily generate a proof that you had perfomed said deposit without revealing your original address. https://tornado.cash/about
+- You can use this app to deposit some ETH into a noncustodial smart contract, and then easily generate a proof that you had performed said deposit without revealing your original address. https://tornado.cash/about
 
-- Sociial tokens (money), perosnal currency webinar
+- Social tokens (money), personal currency webinar
 https://www.youtube.com/watch?v=D3JQMx10tas
 
 - Redefining value - social capital mind map 
