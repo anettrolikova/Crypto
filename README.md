@@ -232,7 +232,7 @@ Goerli Faucets - Goerli will get depreciated soon! Try to use Sepolia instead
 - https://goerlifaucet.com/
 - https://goerli-faucet.pk910.de/
 - https://goerlifaucet.org/
-- https://www.allthatnode.com/faucet/ethereum.dsrv
+- https://www.allthatnode.com/faucet/ethereum.dsrv - Goerli and Sepolia
 - https://goerli-faucet.mudit.blog/
 - https://faucet.goerli.starknet.io/
 - https://faucet.triangleplatform.com/ethereum/goerli
