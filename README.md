@@ -203,7 +203,7 @@ https://gun.eco/docs/Todo-Dapp
 - Method to the Madness - sbt-Ethereum intends to make interacting with, customizing, and deploying Ethereum smart contracts more “accessible” to non-developers
 https://www.sbt-ethereum.io/method_to_the_madness.html
 
-- Auditing excercises - learrn how to audit contracts
+- Auditing exercises - learn how to audit contracts
 https://github.com/spearbit-audits/writing-exercise
 
 - Dapptools - A suite of Ethereum focused CLI tools following the Unix design philosophy, favoring composability, configurability and extensibility.
@@ -220,7 +220,6 @@ https://github.com/wslyvh/nexth/?tab=readme-ov-file
 - Hardhat - a development environment for Ethereum software. It consists of different components for editing, compiling, debugging and deploying your smart contracts and dApps, all of which work together to create a complete development environment.
 https://hardhat.org/
 
-- 
 
 # Faucets 
 - USDC & EURC 
@@ -246,7 +245,7 @@ Sepolia Faucets
 - https://sepolia-faucet.pk910.de/ PoW
 
 Holesky Faucets
-- holesky-faucet.pk910.de  
+- https://holesky-faucet.pk910.de/  
 
 Optimism Faucets 
 - https://app.optimism.io/faucet - Superchain
