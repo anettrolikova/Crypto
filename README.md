@@ -241,7 +241,6 @@ Goerli Faucets - Goerli will get depreciated soon! Try to use Sepolia instead
 - https://testnetbridge.com/ - buy Goerli ETH with Mainnet ETH
 
 Sepolia Faucets
-- https://sepolia-faucet.pk910.de/
 - https://faucet-sepolia.rockx.com/
 - https://faucet.sepolia.dev/
 - https://sepolia-faucet.pk910.de/ PoW
