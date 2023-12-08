@@ -607,6 +607,9 @@ https://www.goodreads.com/book/show/55180348-the-business-of-belonging?ac=1&from
 - Lot's of community building related blogs
 https://communitycoach.me/my-blog/
 
+- A weekly email roundup of Developer Avocados 🥑 (Developer advocates) CFPs (Call for Papers to speak at events), resources and articles.
+https://developeravocados.net/
+
 # Web3 Job boards 
 Where to look for a job in Web3
 
