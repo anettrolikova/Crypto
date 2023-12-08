@@ -241,6 +241,7 @@ Goerli Faucets - Goerli will get depreciated soon! Try to use Holesky or Sepolia
 - https://testnetbridge.com/ - buy Goerli ETH with Mainnet ETH
 
 Sepolia Faucets
+- https://www.infura.io/faucet/sepolia
 - https://faucet-sepolia.rockx.com/
 - https://faucet.sepolia.dev/
 - https://sepolia-faucet.pk910.de/ PoW
@@ -262,9 +263,14 @@ Multi-chain Faucets - supporting more tokens and chains than listed above
 - https://www.coinbase.com/faucets
 - https://faucet.triangleplatform.com/
 
-Base Goeli Faucets 
+Base Goerli Faucets 
 - https://learnweb3.io/faucets/base_goerli
 - https://www.coinbase.com/faucets/base-ethereum-goerli-faucet
+
+Linea Goerli Faucets
+- https://www.infura.io/faucet/linea
+- https://faucet.goerli.linea.build
+- https://learnweb3.io/faucets/linea_goerli
 
 # Cool projects 
 
