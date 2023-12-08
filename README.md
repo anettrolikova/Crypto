@@ -611,18 +611,14 @@ https://communitycoach.me/my-blog/
 Where to look for a job in Web3
 
 - https://web3.career
+  
+- https://remote3.co/
 
 - https://angel.co/jobs
 
 - https://bankless.pallet.com/jobs
 
-- https://jobs.defialliance.co/jobs
-
-- https://network.seedclub.xyz
-
 - https://cryptocurrencyjobs.co
-
-- https://blocktribe.com
 
 - https://crypto.jobs
 
