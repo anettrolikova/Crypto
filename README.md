@@ -239,6 +239,7 @@ Goerli Faucets - Goerli will get depreciated soon! Try to use Holesky or Sepolia
 - https://faucet.polygon.technology/
 - https://grabteeth.xyz/ - Goerli and Sepolia
 - https://testnetbridge.com/ - buy Goerli ETH with Mainnet ETH
+- https://faucet.chainstack.com/goerli-testnet-faucet
 
 Sepolia Faucets
 - https://www.infura.io/faucet/sepolia
@@ -246,10 +247,12 @@ Sepolia Faucets
 - https://faucet.sepolia.dev/
 - https://sepolia-faucet.pk910.de/ PoW
 - https://www.sepoliafaucet.io/
+- https://faucet.chainstack.com/sepolia-testnet-faucet
 
 Holesky Faucets
 - https://holesky-faucet.pk910.de/
 - http://holeskyfaucet.io 
+- https://faucet.chainstack.com/holesky-testnet-faucet
 
 Ephemery Faucets 
 - https://faucet.bordel.wtf/
