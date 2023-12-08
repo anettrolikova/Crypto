@@ -245,9 +245,11 @@ Sepolia Faucets
 - https://faucet-sepolia.rockx.com/
 - https://faucet.sepolia.dev/
 - https://sepolia-faucet.pk910.de/ PoW
+- https://www.sepoliafaucet.io/
 
 Holesky Faucets
-- https://holesky-faucet.pk910.de/  
+- https://holesky-faucet.pk910.de/
+- http://holeskyfaucet.io 
 
 Ephemery Faucets 
 - https://faucet.bordel.wtf/
@@ -262,6 +264,8 @@ Multi-chain Faucets - supporting more tokens and chains than listed above
 - https://www.covalenthq.com/faucet/
 - https://www.coinbase.com/faucets
 - https://faucet.triangleplatform.com/
+- https://www.l2faucet.com/
+- https://faucet.chainstack.com/
 
 Base Goerli Faucets 
 - https://learnweb3.io/faucets/base_goerli
