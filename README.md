@@ -248,6 +248,7 @@ Sepolia Faucets
 - https://sepolia-faucet.pk910.de/ PoW
 - https://www.sepoliafaucet.io/
 - https://faucet.chainstack.com/sepolia-testnet-faucet
+- https://faucets.chain.link/sepolia
 
 Holesky Faucets
 - https://holesky-faucet.pk910.de/
