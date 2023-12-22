@@ -197,6 +197,9 @@ https://money-legos.studydefi.com/#/quickstart
 - Crypto wallet UI kit 
 https://whollet.io/
 
+- Particle Network - Wallet-as-a-Service SDKs enabling social logins and account abstraction
+https://particle.network
+
 - Decentralised database for devs 
 https://gun.eco/docs/Todo-Dapp
 
