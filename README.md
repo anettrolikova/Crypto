@@ -105,6 +105,9 @@ http://remix.ethereum.org/
 - The most popular game
 https://cryptozombies.io/
 
+- An in-depth degree to learn about development on Ethereum
+https://learnweb3.io/degrees/ethereum-developer-degree
+
 - An Educational Sandbox For Web3... And Much More. Drag-and-Drop Programming, Open Source Building Blocks,Visually Understand How Ethereum Works
 https://eth.build/
 
@@ -176,6 +179,9 @@ https://www.useweb3.xyz/
 - Solidity by example - an introduction to Solidity with simple examples
 https://solidity-by-example.org/
 
+- LearnWeb3 Ethereum Developer Degree
+https://learnweb3.io/degrees/ethereum-developer-degree
+
 - Introduction to Solidity smart contracts 
 https://blog.paulmcaviney.ca/hello-world
 
@@ -240,6 +246,7 @@ Goerli Faucets - Goerli will get depreciated soon! Try to use Holesky or Sepolia
 - https://grabteeth.xyz/ - Goerli and Sepolia
 - https://testnetbridge.com/ - buy Goerli ETH with Mainnet ETH
 - https://faucet.chainstack.com/goerli-testnet-faucet
+- https://learnweb3.io/faucets/goerli
 
 Sepolia Faucets
 - https://www.infura.io/faucet/sepolia
@@ -249,11 +256,13 @@ Sepolia Faucets
 - https://www.sepoliafaucet.io/
 - https://faucet.chainstack.com/sepolia-testnet-faucet
 - https://faucets.chain.link/sepolia
+- https://learnweb3.io/faucets/sepolia
 
 Holesky Faucets
 - https://holesky-faucet.pk910.de/
 - http://holeskyfaucet.io 
 - https://faucet.chainstack.com/holesky-testnet-faucet
+- https://learnweb3.io/faucets/holesky
 
 Ephemery Faucets 
 - https://faucet.bordel.wtf/
@@ -261,6 +270,7 @@ Ephemery Faucets
 
 Optimism Faucets 
 - https://app.optimism.io/faucet - Superchain
+- https://learnweb3.io/faucets/
 
 Multi-chain Faucets - supporting more tokens and chains than listed above 
 - https://bwarelabs.com/faucets
@@ -270,6 +280,7 @@ Multi-chain Faucets - supporting more tokens and chains than listed above
 - https://faucet.triangleplatform.com/
 - https://www.l2faucet.com/
 - https://faucet.chainstack.com/
+- https://learnweb3.io/faucets/
 
 Base Goerli Faucets 
 - https://learnweb3.io/faucets/base_goerli
