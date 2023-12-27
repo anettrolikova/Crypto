@@ -674,6 +674,8 @@ Where to look for a job in Web3
 - https://jobs.a16z.com/jobs
   
 - https://opportunities.lido.fi/
+
+- https://www.paradigm.xyz/opportunities
   
 - https://jobs.solana.com/jobs
 
