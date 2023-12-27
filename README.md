@@ -270,6 +270,7 @@ Multi-chain Faucets - supporting more tokens and chains than listed above
 - https://faucet.triangleplatform.com/
 - https://www.l2faucet.com/
 - https://faucet.chainstack.com/
+- https://faucet.paradigm.xyz/
 
 Base Goerli Faucets 
 - https://learnweb3.io/faucets/base_goerli
