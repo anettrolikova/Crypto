@@ -132,6 +132,9 @@ https://www.bitpanda.com/academy/en/lessons/what-is-ethereum/
 - DeFi school
 https://defi.school/
 
+- Enclode club solidity bootcamp
+https://www.encode.club/solidity-bootcamps
+
 - Coinbase learning courses 
 https://www.coinbase.com/earn
 
