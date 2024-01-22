@@ -171,6 +171,11 @@ https://yacademy.dev/fellowships/
 - List of 40 blockchain portals - similar to listed above
 https://blog.developerdao.com/40-free-online-learning-platforms-for-web3-enthusiasts
 
+- Find smart contracts, solidity libraries, and discover protocols.
+https://www.cookbook.dev/
+
+- The best way to read and understand smart contracts
+https://www.contractreader.io/
 
 # Developers
 - Learning resources, where to start as Web3 developer and so many great sources of blogs
