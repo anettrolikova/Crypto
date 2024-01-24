@@ -694,6 +694,8 @@ Great reads related to job search:
 
 - https://x.com/0xwillthetrill/status/1668271399721398273?s=20
 
+- https://www.masonnystrom.com/p/how-to-get-a-job-in-web3
+
 
 # Interchain
 
