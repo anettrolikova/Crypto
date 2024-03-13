@@ -637,6 +637,12 @@ https://communitycoach.me/my-blog/
 - A weekly email roundup of Developer Avocados 🥑 (Developer advocates) CFPs (Call for Papers to speak at events), resources and articles.
 https://developeravocados.net/
 
+- 5 Tips For Writing Technical Documentation That Developers Love
+https://dev.to/getpieces/5-tips-for-writing-technical-documentation-that-developers-love-1ho7
+
+- How Stripe builds interactive docs with Markdoc -> hint, Stripe docs ROCKS! 
+https://stripe.com/blog/markdoc
+
 # Web3 Job boards 
 Where to look for a job in Web3
 
