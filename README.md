@@ -694,6 +694,8 @@ Where to look for a job in Web3
   
 - https://jobs.solana.com/jobs
 
+- https://jobs.arbitrum.io/jobs
+
 Great reads related to job search:
   
 - https://philipliao.com/job-search
