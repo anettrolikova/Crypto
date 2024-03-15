@@ -177,6 +177,9 @@ https://www.cookbook.dev/
 - The best way to read and understand smart contracts
 https://www.contractreader.io/
 
+- Solidity School
+https://github.com/Aniket-Engg/solidity-school
+
 # Developers
 - Learning resources, where to start as Web3 developer and so many great sources of blogs
 https://www.useweb3.xyz/
