@@ -180,6 +180,9 @@ https://www.contractreader.io/
 - Solidity School
 https://github.com/Aniket-Engg/solidity-school
 
+- List of ambassador programs of crypto projects
+https://crypto-ambassador.com/blog/
+
 # Developers
 - Learning resources, where to start as Web3 developer and so many great sources of blogs
 https://www.useweb3.xyz/
@@ -645,6 +648,7 @@ https://dev.to/getpieces/5-tips-for-writing-technical-documentation-that-develop
 
 - How Stripe builds interactive docs with Markdoc -> hint, Stripe docs ROCKS! 
 https://stripe.com/blog/markdoc
+
 
 # Web3 Job boards 
 Where to look for a job in Web3
