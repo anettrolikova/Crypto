@@ -183,6 +183,9 @@ https://github.com/Aniket-Engg/solidity-school
 - List of ambassador programs of crypto projects
 https://crypto-ambassador.com/blog/
 
+- yAcademy - security - auditing, smart contract, zk fellowship
+https://yacademy.dev/about/
+
 # Developers
 - Learning resources, where to start as Web3 developer and so many great sources of blogs
 https://www.useweb3.xyz/
