@@ -171,20 +171,11 @@ https://yacademy.dev/fellowships/
 - List of 40 blockchain portals - similar to listed above
 https://blog.developerdao.com/40-free-online-learning-platforms-for-web3-enthusiasts
 
-- Find smart contracts, solidity libraries, and discover protocols.
-https://www.cookbook.dev/
-
-- The best way to read and understand smart contracts
-https://www.contractreader.io/
-
 - Solidity School
 https://github.com/Aniket-Engg/solidity-school
 
 - List of ambassador programs of crypto projects
 https://crypto-ambassador.com/blog/
-
-- yAcademy - security - auditing, smart contract, zk fellowship
-https://yacademy.dev/about/
 
 # Developers
 - Learning resources, where to start as Web3 developer and so many great sources of blogs
@@ -239,6 +230,15 @@ https://hardhat.org/
 
 - Bundler for Solidity - Solidity + Typescript
 https://evmts.dev/
+
+- Find smart contracts, solidity libraries, and discover protocols.
+https://www.cookbook.dev/
+
+- The best way to read and understand smart contracts
+https://www.contractreader.io/
+
+- Ethereum IDE for deploying, writing, testing smart contracts
+https://www.atlaszk.com/
 
 # Faucets 
 - USDC & EURC 
