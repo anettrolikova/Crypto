@@ -178,6 +178,9 @@ https://github.com/Aniket-Engg/solidity-school
 https://crypto-ambassador.com/blog/
 
 # Developers
+- zero to one web dev - compiled list of resources that you should go over when 
+https://ravi0.notion.site/Zero-to-One-Web-Dev-Guide-0b9dcd9c77b249ca8af4b9e5bd6b676e
+
 - Learning resources, where to start as Web3 developer and so many great sources of blogs
 https://www.useweb3.xyz/
 
