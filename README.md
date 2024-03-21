@@ -582,6 +582,9 @@ https://kb.delendum.xyz/zk-knowledge#vulnerabilities
 - Sovereign rollup
 https://mirror.xyz/0x55a0c204c6fDd0DCf238430cb4BF79D45e8D9Bc3/x2tOM-u5vkgmmmkCPHLvorhC7PSbDQK6LQmB6mjNw1k
 
+- ZK bug tracker
+https://github.com/0xPARC/zk-bug-tracker
+
 # MEV
 - Awesome MEV Boost
 https://github.com/thegostep/awesome-mev-boost 
