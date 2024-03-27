@@ -22,7 +22,7 @@ Disclaimer: This repo is Work In Progress and I'm adding new links on a very irr
 - [MEV](https://github.com/anettrolikova/Crypto/blob/master/README.md#mev)
 - [Community & Dev Rel](https://github.com/anettrolikova/Crypto#community--dev-rel)
 - [Web3 Job boards](https://github.com/anettrolikova/Crypto/blob/master/README.md#web3-job-boards)
-- [Interchain](https://github.com/anettrolikova/Crypto#interchain)
+- [Interchain & Cosmos](https://github.com/anettrolikova/Crypto#interchain)
 
 # Getting started with Crypto
 - Before you jump into Ethereum Community, read this piece - general knowleadge about Crypto 
@@ -242,6 +242,10 @@ https://www.contractreader.io/
 
 - Ethereum IDE for deploying, writing, testing smart contracts
 https://www.atlaszk.com/
+
+- Spawn development platform for building custom modular Cosmos-SDK blockchains
+https://github.com/rollchains/spawn
+
 
 # Faucets 
 - USDC & EURC 
@@ -721,7 +725,7 @@ Great reads related to job search:
 - https://www.masonnystrom.com/p/how-to-get-a-job-in-web3
 
 
-# Interchain
+# Interchain & Cosmos
 
 - The Cosmos hub as port city of a blockchains - "Blockchains are virtual cities: districts of economic and cultural exchange, where common infrastructure gives rise to a mutual sense of place and a shared social fabric."
 https://medium.com/cosmos-blockchain/the-cosmos-hub-is-a-port-city-5b7f2d28debf
@@ -750,3 +754,5 @@ https://medium.com/evmos/cross-chain-vs-multi-chain-revisited-ea771e204b8f
 
 - The Future of Cross-chain: What Went Wrong and How We Can Move Forward 
 https://blog.buildwithsygma.com/future-of-cross-chain/
+
+
