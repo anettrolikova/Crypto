@@ -346,6 +346,9 @@ https://ep.corepaper.org/#proposals
 - Ethereum State - huge tech explanation 
 https://github.com/ledgerwatch/turbo-geth/blob/master/docs/programmers_guide/guide.md#transaction-processing
 
+- ESP Ethereum Foundation small grants program - great for events, builders
+https://esp.ethereum.foundation/applicants/small-grants 
+
 # ETH1.x to ETH2.0 
 -  Roadmap ETH1.x to ETH2.0
 https://notes.ethereum.org/cISMnGRMR6-EWka8QLLlYw
