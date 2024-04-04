@@ -93,6 +93,15 @@ https://medium.com/better-programming/run-an-ethereum-node-on-linux-late-2019-b3
 
 # Learning portals & Fellowships
 
+- One of the best developer courses in Ethereum! Senior blockchain engineer 
+https://www.rareskills.io/
+
+- Advanced Solidity Bootcamp
+https://www.rareskills.io/solidity-bootcamp
+
+- ZK bootcamp 
+https://www.rareskills.io/zk-bootcamp
+
 - Inevitable Ethereum - History, finance, computer science, elliptic curve cryptography... everything needed to see the future
 https://inevitableeth.com/en/home/ethereum/evm
 
