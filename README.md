@@ -728,6 +728,8 @@ Where to look for a job in Web3
 
 - https://jobs.arbitrum.io/jobs
 
+- https://variant.getro.com/jobs
+
 Great reads related to job search:
   
 - https://philipliao.com/job-search
