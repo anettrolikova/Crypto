@@ -674,6 +674,11 @@ https://dev.to/getpieces/5-tips-for-writing-technical-documentation-that-develop
 - How Stripe builds interactive docs with Markdoc -> hint, Stripe docs ROCKS! 
 https://stripe.com/blog/markdoc
 
+- So what exactly is Dev Rel?
+https://jimbobbennett.dev/blogs/so-what-is-devrel/
+
+- The Silver Bullet for 30-60-90 Day-Plans as a DevRel
+https://dev.to/bianca_buzea/the-silver-bullet-for-30-60-90-day-plans-as-a-devrel-1pl3
 
 # Web3 Job boards 
 Where to look for a job in Web3
