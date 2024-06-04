@@ -680,6 +680,9 @@ https://jimbobbennett.dev/blogs/so-what-is-devrel/
 - The Silver Bullet for 30-60-90 Day-Plans as a DevRel
 https://dev.to/bianca_buzea/the-silver-bullet-for-30-60-90-day-plans-as-a-devrel-1pl3
 
+- Defining Developer Relations
+https://www.leggetter.co.uk/2016/02/03/defining-developer-relations.html
+
 # Web3 Job boards 
 Where to look for a job in Web3
 
