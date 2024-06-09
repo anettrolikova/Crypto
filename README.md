@@ -683,6 +683,9 @@ https://dev.to/bianca_buzea/the-silver-bullet-for-30-60-90-day-plans-as-a-devrel
 - Defining Developer Relations
 https://www.leggetter.co.uk/2016/02/03/defining-developer-relations.html
 
+- How to measure Developer Relations with Patrick Collins
+https://www.youtube.com/watch?v=g5iCUX-6Z3w&t=2567s&ab_channel=RazaZaidi 
+
 # Web3 Job boards 
 Where to look for a job in Web3
 
