@@ -186,6 +186,9 @@ https://github.com/Aniket-Engg/solidity-school
 - List of ambassador programs of crypto projects
 https://crypto-ambassador.com/blog/
 
+- De University of Ethereum
+https://ueth.org/home
+
 # Developers
 - zero to one web dev - compiled list of resources that you should go over when 
 https://ravi0.notion.site/Zero-to-One-Web-Dev-Guide-0b9dcd9c77b249ca8af4b9e5bd6b676e
