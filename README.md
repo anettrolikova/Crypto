@@ -692,6 +692,9 @@ https://www.youtube.com/watch?v=g5iCUX-6Z3w&t=2567s&ab_channel=RazaZaidi
 - AI video editor, helps with captions, voice correction...etc
 https://www.captions.ai/
 
+- DevRel roadmap, defining categories of devrel
+https://roadmap.sh/devrel
+
 # Web3 Job boards 
 Where to look for a job in Web3
 
