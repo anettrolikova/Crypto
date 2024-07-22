@@ -361,6 +361,10 @@ https://github.com/ledgerwatch/turbo-geth/blob/master/docs/programmers_guide/gui
 - ESP Ethereum Foundation small grants program - great for events, builders
 https://esp.ethereum.foundation/applicants/small-grants 
 
+- Robust Incentives Group is an Ethereum Foundation research team dedicated to the study of protocol mechanisms with the lens of game theory, mechanism design, crypto-economics, formal methods and data science.
+https://rig.ethereum.org
+
+
 # ETH1.x to ETH2.0 
 -  Roadmap ETH1.x to ETH2.0
 https://notes.ethereum.org/cISMnGRMR6-EWka8QLLlYw
