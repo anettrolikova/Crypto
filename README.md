@@ -99,6 +99,9 @@ https://www.rareskills.io/
 - Advanced Solidity Bootcamp
 https://www.rareskills.io/solidity-bootcamp
 
+- Coinbase tutorials & educational blog posts
+https://www.coinbase.com/learn/crypto-basics
+
 - ZK bootcamp 
 https://www.rareskills.io/zk-bootcamp
 
