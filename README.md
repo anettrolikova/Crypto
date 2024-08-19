@@ -102,6 +102,9 @@ https://www.rareskills.io/solidity-bootcamp
 - Coinbase tutorials & educational blog posts
 https://www.coinbase.com/learn/crypto-basics
 
+- Ethernaut a Web3/Solidity based wargame played in the Ethereum Virtual Machine. Each level is a smart contract that needs to be 'hacked'
+https://ethernaut.openzeppelin.com/
+
 - ZK bootcamp 
 https://www.rareskills.io/zk-bootcamp
 
