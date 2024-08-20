@@ -117,6 +117,9 @@ https://solidity-by-example.org/
 - Solidity playground
 http://remix.ethereum.org/
 
+- Web3 university
+https://www.web3.university/
+
 - The most popular game
 https://cryptozombies.io/
 
