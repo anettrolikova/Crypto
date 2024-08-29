@@ -708,6 +708,9 @@ https://www.captions.ai/
 - DevRel roadmap, defining categories of devrel
 https://roadmap.sh/devrel
 
+- The DEveloper Advocacy Handbook
+https://developer-advocacy.com/
+
 # Web3 Job boards 
 Where to look for a job in Web3
 
