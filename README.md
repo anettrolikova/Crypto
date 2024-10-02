@@ -65,6 +65,9 @@ https://blog.coinbase.com/a-beginners-guide-to-ethereum-46dd486ceecf
 - How does Ethereum work, anyway ?
 https://medium.com/@preethikasireddy/how-does-ethereum-work-anyway-22d1df506369
 
+- Crypto | An API-Based Composable Financial System - great blog post outlining crypto APIs
+https://www.apifirst.tech/p/crypto-an-api-based-composable-financial-system
+
 - Ethereum Roadmap kinda sum up from Devcon5 & nice reading about Ethereum
 https://decrypt.co/10298/devcon-5-building-a-decentralized-revolution-at-scale
 
