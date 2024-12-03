@@ -463,6 +463,24 @@ https://medium.com/@0xKiwi/network-effects-in-an-open-financial-world-251152b946
 - Ether is Equity - Ethereum decribed from financal perspective 
 https://bankless.substack.com/p/ether-is-equity
 
+- Aave v3 stETH - where does yield come from in Aave v3
+https://docs.summer.fi/products/earn/aave-v3-steth#where-does-the-yield-come-from
+
+- Isolated markets - Moonbeam, they have lots of great DeFi related posts in their docs
+https://docs.moonwell.fi/moonwell/moonwell-overview/isolated-markets 
+
+- Yearn vaults v3 
+https://tokenterminal.com/resources/interview/yearn-vaults-v3
+
+- How Ethereum staking works 
+https://docs.rocketpool.net/guides/staking/overview#how-ethereum-staking-works
+
+- Optimizing Treasury With A Yield-Bearing Stablecoin: The Morpho Case Study - Angle have a lots of great blog posts
+https://blog.angle.money/morpho-added-stusd-to-treasury
+
+- Hyperliquid: Navigating Growth and Future Potential in DeFi
+https://economicsdesign.com/blog/hyperliquid-navigating-growth-and-future-potential-in-defi/?utm_source=chatgpt.com
+
 # DAO 
 - DAO Landscape - overview of DAOs and DAO ecosystem 
 https://coopahtroopa.mirror.xyz/_EDyn4cs9tDoOxNGZLfKL7JjLo5rGkkEfRa_a-6VEWw
