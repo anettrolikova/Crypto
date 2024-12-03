@@ -479,7 +479,10 @@ https://docs.rocketpool.net/guides/staking/overview#how-ethereum-staking-works
 https://blog.angle.money/morpho-added-stusd-to-treasury
 
 - Hyperliquid: Navigating Growth and Future Potential in DeFi
-https://economicsdesign.com/blog/hyperliquid-navigating-growth-and-future-potential-in-defi/?utm_source=chatgpt.com
+https://economicsdesign.com/blog/hyperliquid-navigating-growth-and-future-potential-in-defi/
+
+- Aave v3 
+https://aave.com/docs/developers/aave-v3
 
 # DAO 
 - DAO Landscape - overview of DAOs and DAO ecosystem 
