@@ -484,6 +484,9 @@ https://economicsdesign.com/blog/hyperliquid-navigating-growth-and-future-potent
 - Aave v3 
 https://aave.com/docs/developers/aave-v3
 
+- The Yield Bearing Stablecoin Revolution
+https://medium.com/florencefinance/the-yield-bearing-stablecoin-revolution-8855ad8d00e7
+
 # DAO 
 - DAO Landscape - overview of DAOs and DAO ecosystem 
 https://coopahtroopa.mirror.xyz/_EDyn4cs9tDoOxNGZLfKL7JjLo5rGkkEfRa_a-6VEWw
