@@ -23,7 +23,7 @@ Disclaimer: This repo is Work In Progress and I'm adding new links on a very irr
 - [Community & Dev Rel](https://github.com/anettrolikova/Crypto#community--dev-rel)
 - [Web3 Job boards](https://github.com/anettrolikova/Crypto/blob/master/README.md#web3-job-boards)
 - [Interchain & Cosmos](https://github.com/anettrolikova/Crypto#interchain)
-- [AI]()
+- [AI](https://github.com/anettrolikova/Crypto/tree/master?tab=readme-ov-file#ai)
 
 # Getting started with Crypto
 - Before you jump into Ethereum Community, read this piece - general knowleadge about Crypto 
