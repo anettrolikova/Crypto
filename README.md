@@ -23,6 +23,7 @@ Disclaimer: This repo is Work In Progress and I'm adding new links on a very irr
 - [Community & Dev Rel](https://github.com/anettrolikova/Crypto#community--dev-rel)
 - [Web3 Job boards](https://github.com/anettrolikova/Crypto/blob/master/README.md#web3-job-boards)
 - [Interchain & Cosmos](https://github.com/anettrolikova/Crypto#interchain)
+- [AI]()
 
 # Getting started with Crypto
 - Before you jump into Ethereum Community, read this piece - general knowleadge about Crypto 
@@ -838,4 +839,16 @@ https://medium.com/evmos/cross-chain-vs-multi-chain-revisited-ea771e204b8f
 - The Future of Cross-chain: What Went Wrong and How We Can Move Forward 
 https://blog.buildwithsygma.com/future-of-cross-chain/
 
+# AI 
+- AI training courses - The fastest way to learn to build cool AI projects and get certified to deliver in AI, more of a social app similar to Strava
+  https://www.buildclub.ai/
+
+- Free online courses. A series of free online courses created by MinnaLearn and the University of Helsinki
+https://www.elementsofai.com/
+
+- 12-week online curriculum
+  https://microsoft.github.io/AI-For-Beginners/
+
+- Fast AI is a selection of practical AI courses created by Jeremy Howard (creator of ULMFiT used in ChatGPT) and Dr Rachel Thomas.
+https://www.fast.ai/
 
