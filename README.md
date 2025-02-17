@@ -852,3 +852,9 @@ https://www.elementsofai.com/
 - Fast AI is a selection of practical AI courses created by Jeremy Howard (creator of ULMFiT used in ChatGPT) and Dr Rachel Thomas.
 https://www.fast.ai/
 
+# Hyperliquid 
+- Navigating HyperEVM DeFi: A Guide for What is to Come
+https://x.com/0xBroze/status/1890042728878133623
+
+- Explain the Unit Guardian System Like I’m 5: BTC on Hyperliquid
+  https://x.com/0xBroze/status/1890761476501131353
