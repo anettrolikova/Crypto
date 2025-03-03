@@ -861,3 +861,6 @@ https://x.com/0xBroze/status/1890042728878133623
 
 - Explain the Unit Guardian System Like I’m 5: BTC on Hyperliquid
   https://x.com/0xBroze/status/1890761476501131353
+
+- The Not-So-Definitive guide to Hyperliquid Precompiles
+https://medium.com/@ambitlabs/the-not-so-definitive-guide-to-hyperliquid-precompiles-f0b6025bb4a3
