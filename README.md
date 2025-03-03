@@ -739,11 +739,14 @@ https://www.captions.ai/
 - DevRel roadmap, defining categories of devrel
 https://roadmap.sh/devrel
 
-- The DEveloper Advocacy Handbook
+- The Developer Advocacy Handbook
 https://developer-advocacy.com/
 
 - Awesome Docs 
 https://github.com/testthedocs/awesome-docs
+
+- METT-TC for Developer Relations - Plan DevRel Strategies the Army Ranger Way
+https://blog.patrickskinner.tech/mett-tc-for-developer-relations
 
 # Web3 Job boards 
 Where to look for a job in Web3
