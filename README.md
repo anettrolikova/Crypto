@@ -864,3 +864,9 @@ https://x.com/0xBroze/status/1890042728878133623
 
 - The Not-So-Definitive guide to Hyperliquid Precompiles
 https://medium.com/@ambitlabs/the-not-so-definitive-guide-to-hyperliquid-precompiles-f0b6025bb4a3
+
+- Hyperliquid execution & Philosophy
+https://x.com/chameleon_jeff/status/1892263910298046717
+
+- On the Need for a Native Stable on HyperEVM
+https://x.com/0xBroze/status/1896935589309567031
