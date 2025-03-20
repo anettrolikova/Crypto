@@ -95,6 +95,9 @@ https://medium.com/@goltra/three-crypto-takeaways-from-2018-1f9f05ca4e35
 - How to run Ethereum node - Geth 
 https://medium.com/better-programming/run-an-ethereum-node-on-linux-late-2019-b37a1d35800e
 
+- Aligning Ethereum as a Force for Good
+https://medium.com/infinitism/aligning-ethereum-as-a-force-for-good-2cf8a2803790
+
 # Learning portals & Fellowships
 
 - One of the best developer courses in Ethereum! Senior blockchain engineer 
