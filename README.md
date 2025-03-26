@@ -29,6 +29,9 @@ Disclaimer: This repo is Work In Progress and I'm adding new links on a very irr
 - Before you jump into Ethereum Community, read this piece - general knowleadge about Crypto 
 https://logicmag.io/bodies/the-crypto-family-farm/
 
+- Crypto ecosystem projects map - huge map of crypto projects 
+https://www.cryptomarketmap.org/ 
+
 - Great article explaining the difference between web1.0 web 2.0 and web3.0 - crypto space. It is written in very simple to understand language. https://www.freecodecamp.org/news/what-is-web3/
 
 - Decentralised web - simple explanantion 
@@ -204,6 +207,9 @@ https://crypto-ambassador.com/blog/
 
 - De University of Ethereum
 https://ueth.org/home
+
+- Solidity Guild - Collective of web3 crypto developers, accepting members
+https://www.solidityguild.com/ 
 
 # Developers
 - zero to one web dev - compiled list of resources that you should go over when 
