@@ -26,8 +26,12 @@ Disclaimer: This repo is Work In Progress and I'm adding new links on a very irr
 - [AI](https://github.com/anettrolikova/Crypto/tree/master?tab=readme-ov-file#ai)
 
 # Getting started with Crypto
+
 - Before you jump into Ethereum Community, read this piece - general knowleadge about Crypto 
 https://logicmag.io/bodies/the-crypto-family-farm/
+
+- Web3 ELI5 explanation graphics 
+https://www.web3forall.xyz/
 
 - Crypto ecosystem projects map - huge map of crypto projects 
 https://www.cryptomarketmap.org/ 
