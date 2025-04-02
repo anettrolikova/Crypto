@@ -113,6 +113,9 @@ https://www.rareskills.io/
 - Advanced Solidity Bootcamp
 https://www.rareskills.io/solidity-bootcamp
 
+- Web3 Compass - Learn, build, and find your way in web3
+https://www.web3compass.xyz/learn
+
 - Coinbase tutorials & educational blog posts
 https://www.coinbase.com/learn/crypto-basics
 
