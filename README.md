@@ -373,6 +373,10 @@ https://github.com/Hydepwns/awesome-web3-data
 
 - Is ZK-MPC-FHE-TEE a real creature?
 https://aztec.network/blog/is-zk-mpc-fhe-tee-a-real-creature
+
+- Developer Report by Electric capital
+https://www.developerreport.com/ 
+
 # ETH 1.x 
 - Attemp to change ETH 1.x process 
 https://medium.com/@akhounov/ethereum-1x-as-an-attempt-to-change-the-process-783efa23cf60
