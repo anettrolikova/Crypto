@@ -770,6 +770,9 @@ https://github.com/testthedocs/awesome-docs
 - METT-TC for Developer Relations - Plan DevRel Strategies the Army Ranger Way
 https://blog.patrickskinner.tech/mett-tc-for-developer-relations
 
+- Web3 Grant Program Research & Analysis. Covering 13 programs. 5 tools. 93 pages of work. Challenges & Best Practices. Program Effectiveness. Formulas. Frameworks. Metrics.
+https://x.com/arlery/status/1852049906304704528
+
 # Web3 Job boards 
 Where to look for a job in Web3
 
