@@ -773,6 +773,10 @@ https://blog.patrickskinner.tech/mett-tc-for-developer-relations
 - Web3 Grant Program Research & Analysis. Covering 13 programs. 5 tools. 93 pages of work. Challenges & Best Practices. Program Effectiveness. Formulas. Frameworks. Metrics.
 https://x.com/arlery/status/1852049906304704528
 
+- How AI is Changing Engineering Docs 📑
+A practical guide on how to think about docs in the age of AI.
+https://refactoring.fm/p/how-engineering-docs-change-with?utm_campaign=email-half-post&r=3o3kp&utm_source=substack&utm_medium=email
+
 # Web3 Job boards 
 Where to look for a job in Web3
 
