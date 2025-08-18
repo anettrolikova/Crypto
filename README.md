@@ -777,6 +777,9 @@ https://x.com/arlery/status/1852049906304704528
 A practical guide on how to think about docs in the age of AI.
 https://refactoring.fm/p/how-engineering-docs-change-with?utm_campaign=email-half-post&r=3o3kp&utm_source=substack&utm_medium=email
 
+- How to position DevRel within a tech company
+https://www.docu.agency/blog/how-to-position-devrel-within-a-tech-company
+
 # Web3 Job boards 
 Where to look for a job in Web3
 
