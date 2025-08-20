@@ -473,6 +473,14 @@ https://media.consensys.net/exploring-the-ethereum-2-0-design-goals-fd2d901b4c01
 - Since the Merge: How Are Things Changing?
 https://pintail.xyz/posts/since-the-merge/
 
+# White papers & Math 
+- Batching Techniques for Accumulators with Applications to IOPs and Stateless Blockchains
+https://eprint.iacr.org/2018/1188
+
+- What is a Merkle tree
+https://decentralizedthoughts.github.io/2020-12-22-what-is-a-merkle-tree/ 
+  
+
 # DeFi 
 - DeFi school
 https://defi.school/
