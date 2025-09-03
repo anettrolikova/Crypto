@@ -105,6 +105,12 @@ https://medium.com/better-programming/run-an-ethereum-node-on-linux-late-2019-b3
 - Aligning Ethereum as a Force for Good
 https://medium.com/infinitism/aligning-ethereum-as-a-force-for-good-2cf8a2803790
 
+- Learn Solidity – A Handbook for Smart Contract Development
+https://www.freecodecamp.org/news/learn-solidity-handbook/
+
+- Solidity blogs (multiple resources
+https://github.com/The-Web3-Compass/Web3-Resources/blob/main/languages/solidity/blogs.md
+
 # Learning portals & Fellowships
 
 - One of the best developer courses in Ethereum! Senior blockchain engineer 
