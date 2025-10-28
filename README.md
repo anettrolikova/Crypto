@@ -111,6 +111,9 @@ https://www.freecodecamp.org/news/learn-solidity-handbook/
 - Solidity blogs (multiple resources
 https://github.com/The-Web3-Compass/Web3-Resources/blob/main/languages/solidity/blogs.md
 
+- The Rails Are Free, The Trains Make Money
+https://www.starkiller.capital/post/the-rails-are-free-the-trains-make-money
+
 # Learning portals & Fellowships
 
 - One of the best developer courses in Ethereum! Senior blockchain engineer 
