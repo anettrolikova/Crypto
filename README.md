@@ -1,8 +1,8 @@
 # Anett's curated Crypto list 
 Everything interesting that I found and it’s cool to read & play around :)
-I'm currating this list of links since 2018 when I first started educating myself about crypto and web3 ecosystem. 
+I'm curating this list of links since 2018, when I first started educating myself about crypto and the web3 ecosystem. 
 
-Disclaimer: This repo is Work In Progress and I'm adding new links on a very irregular basis. As author of this currated list I'm not responsible for outdated content and broken links. Feel free to [DM me](https://twitter.com/AnettRolikova) if you find corrected links to the content listed bellow.
+Disclaimer: This repo is Work In Progress and I'm adding new links on a very irregular basis. As the author of this curated list, I'm not responsible for outdated content and broken links. Feel free to [DM me](https://twitter.com/AnettRolikova) if you find corrected links to the content listed bellow.
 
 ## Table of Content: 
 - [Getting started with crypto](https://github.com/anettrolikova/Crypto/blob/master/README.md#general-about-crypto)
