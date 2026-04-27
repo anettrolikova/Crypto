@@ -27,8 +27,11 @@ Disclaimer: This repo is Work In Progress and I'm adding new links on a very irr
 
 # Getting started with Crypto
 
-- Before you jump into Ethereum Community, read this piece - general knowleadge about Crypto 
+- Before you jump into Ethereum Community, read this piece - general knowledge about Crypto 
 https://logicmag.io/bodies/the-crypto-family-farm/
+
+- A map of useful resources, jumping points, and players shaping Ethereum's future.
+https://ethereumpage.com/ 
 
 - Web3 ELI5 explanation graphics 
 https://www.web3forall.xyz/
@@ -38,13 +41,13 @@ https://www.cryptomarketmap.org/
 
 - Great article explaining the difference between web1.0 web 2.0 and web3.0 - crypto space. It is written in very simple to understand language. https://www.freecodecamp.org/news/what-is-web3/
 
-- Decentralised web - simple explanantion 
+- Decentralized web - simple explanation 
 https://hackernoon.com/dweb-the-decentralized-web-a0e9c6a5c0ec
 
 - My Web3 Journey: Day 50 of #100daysofWeb3 - helpful when starting with crypto
 https://eda.hashnode.dev/my-web3-journey-day-50-of-100daysofweb3
 
-- Keep your funds safe + general knowleadge portal, mainly about how to keep your crypto safe 
+- Keep your funds safe + general knowledge portal, mainly about how to keep your crypto safe 
 https://support.mycrypto.com/
 
 - 12 questions about crypto 
@@ -56,13 +59,13 @@ http://mailing-list-archive.cryptoanarchy.wiki/
 - Simple Guide to the Web3 Stack
 https://www.coinbase.com/blog/a-simple-guide-to-the-web3-stack
 
-- Hitchhikers guide to Ethereum - huge but super informative and up to date how Ethereum works, runs and all important deets
+- Hitchhiker's Guide to Ethereum - huge but super informative and up to date on how Ethereum works, runs and all important deets
 https://members.delphidigital.io/reports/the-hitchhikers-guide-to-ethereum/
 
 - Newsletter for beginners
 https://creatoreconomy.so/p/curious-beginner-guide-to-crypto
 
-- Beginner guide to Ethereum "Imagine automatically sending money from one person to another but only when a certain set of conditions are met. For example an individual wants to purchase a home from another person." 
+- Beginner guide to Ethereum "Imagine automatically sending money from one person to another but only when a certain set of conditions are met. For example, an individual wants to purchase a home from another person." 
 https://blog.coinbase.com/a-beginners-guide-to-ethereum-46dd486ceecf
 
 - Blockchain required readings https://github.com/prysmaticlabs/prysm/blob/master/docs/READINGS.md  - huge repo incl:
@@ -70,7 +73,7 @@ https://blog.coinbase.com/a-beginners-guide-to-ethereum-46dd486ceecf
   - Required Sharding Knowledge
   - Necessary Go Knowledge & Readings
 
-- How does Ethereum work, anyway ?
+- How does Ethereum work, anyway?
 https://medium.com/@preethikasireddy/how-does-ethereum-work-anyway-22d1df506369
 
 - Crypto | An API-Based Composable Financial System - great blog post outlining crypto APIs
@@ -85,9 +88,9 @@ https://hackernoon.com/in-defense-of-ethereum-and-its-fatness-why-im-still-bulli
 - nice story how dev got into Ethereum 
 https://medium.com/@pipermerriam/my-rambling-journey-into-a-career-working-on-ethereum-and-the-decentralized-web-134743766f64
 
-- why I love Ethereum community, values, advantages and overall overview on Ethereum community https://medium.com/@pipermerriam/thoughts-on-our-values-as-a-community-19ada1d4749
+- why I love Ethereum community, values, advantages and overall overview on the Ethereum community https://medium.com/@pipermerriam/thoughts-on-our-values-as-a-community-19ada1d4749
 
-- (controversial) point of a view on mass adoption of crypto 
+- (controversial) point of view on mass adoption of crypto 
 https://www.coindesk.com/cryptocurrency-is-most-useful-for-breaking-laws-and-social-constructs
 
 - scaling Ethereum - huge repo 
@@ -99,7 +102,7 @@ https://medium.com/@VitalikButerin/the-meaning-of-decentralization-a0c92b76a274#
 - crypto takeaways from 2018
 https://medium.com/@goltra/three-crypto-takeaways-from-2018-1f9f05ca4e35
 
-- How to run Ethereum node - Geth 
+- How to run an Ethereum node - Geth 
 https://medium.com/better-programming/run-an-ethereum-node-on-linux-late-2019-b37a1d35800e
 
 - Aligning Ethereum as a Force for Good
@@ -128,7 +131,7 @@ https://www.web3compass.xyz/learn
 - Coinbase tutorials & educational blog posts
 https://www.coinbase.com/learn/crypto-basics
 
-- Ethernaut a Web3/Solidity based wargame played in the Ethereum Virtual Machine. Each level is a smart contract that needs to be 'hacked'
+- Ethernaut is a Web3/Solidity-based wargame played in the Ethereum Virtual Machine. Each level is a smart contract that needs to be 'hacked'
 https://ethernaut.openzeppelin.com/
 
 - ZK bootcamp 
@@ -149,7 +152,7 @@ https://www.web3.university/
 - The most popular game
 https://cryptozombies.io/
 
-- An Educational Sandbox For Web3... And Much More. Drag-and-Drop Programming, Open Source Building Blocks,Visually Understand How Ethereum Works
+- An Educational Sandbox For Web3... And Much More. Drag-and-Drop Programming, Open Source Building Blocks, Visually Understand How Ethereum Works
 https://eth.build/
 
 - Tutorials, huge knowledge source for ethereum, web3, IPFS, polkadot and other decentralised technologies. 
@@ -221,7 +224,7 @@ https://github.com/Aniket-Engg/solidity-school
 - List of ambassador programs of crypto projects
 https://crypto-ambassador.com/blog/
 
-- De University of Ethereum
+- University of Ethereum
 https://ueth.org/home
 
 - Solidity Guild - Collective of web3 crypto developers, accepting members
