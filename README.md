@@ -744,6 +744,10 @@ https://developerrelations.com/
 Advices for building dev communities, how to engage with dev communities
 https://www.whatisdevrel.com/
 
+- Developer Relations, documented.
+An open knowledge base for DevRel: definitions, roles, strategy, and the numbers behind them. Written for practitioners, cites its sources, and free to use.
+https://www.devrel.directory/
+
 - Orbit model for community building 
 The Orbit Model is a tool for organizing, visualizing, and measuring communities. Since 2016, the model has fostered thousands of conversations about what makes communities work and how to grow, strengthen, and measure them.
 https://orbit.love/model
