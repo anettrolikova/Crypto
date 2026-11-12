@@ -839,6 +839,8 @@ Where to look for a job in Web3
 - https://app.jobstash.xyz/jobs
 
 - https://interested.fyi/
+
+- https://maneki.work/
   
   VCs / ecosystems have their lists of open roles for their portfolio companies: 
 
