@@ -838,6 +838,8 @@ Where to look for a job in Web3
 
 - https://app.jobstash.xyz/jobs
 
+- https://jobsincrypto.net/
+
 - https://interested.fyi/
   
   VCs / ecosystems have their lists of open roles for their portfolio companies: 
